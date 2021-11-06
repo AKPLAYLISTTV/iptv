@@ -1437,7 +1437,3 @@ http://rtmp.one.by:1300
 
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",XLITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-
-
-#EXTINF:0 group-title="Abde plus",playlist
-http://mantul.biz.id:8888/get.php?username=stress&password=bersama&type=m3u_plus&output=mpegts
