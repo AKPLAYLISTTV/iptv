@@ -63,7 +63,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/7JSpnR2/DAAI-TV.png",Da Ai TV Indonesia
 https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-#EXTINF:-1 group-title=LOKAL" tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png?v=2.0.0.15",JTV
+#EXTINF:-1 group-title=LOKAL" tvg-logo="https://i.ibb.co/cY5SX6x/JTV.png",JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://anevia114.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
@@ -75,25 +75,23 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="LOKAL",Jawapos TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/yPjHwf8/JAWAPOS-TV.png" group-title="LOKAL",Jawapos TV
 https://v2.siar.us/jawapostv/live/chunks.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-logo="https://tatv.co.id/wp-content/uploads/2018/01/logotatv2017.png" group-title="LOKAL",TATV Solo
+#EXTINF:0 tvg-logo="https://i.ibb.co/hcdFGH2/TATV.png" group-title="LOKAL",TATV Solo
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-logo="https://tvtabalong.com/wp-content/uploads/2022/03/logo-tv-tabalong.png" group-title="LOKAL",TV Tabalong
+#EXTINF:0 tvg-logo="https://i.ibb.co/cJLVb5v/TV-TABOLONG.png" group-title="LOKAL",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/9v9MN7D/TVKU.png",TVKU
 http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/c1PvgS8/balitv-modified.png",BALI TV
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://s.id/1dYfQ" group-title="LOKAL",Madu TV
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a/AATXAJytvoO8XJpinmmxq4xVqSRYukKA_2H7ANqB1A=s900-c-k-c0xffffffff-no-rj-mo" group-title="LOKAL",GPR TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bb7vSFt/GPR-TV.png" group-title="LOKAL",GPR TV
 https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pposm6w.png" group-title="LOKAL",Huma Betang TV
-https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/03/LOGO-SANGAJI-TV-2048x475.png" group-title="LOKAL",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
@@ -105,16 +103,6 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/Qf40K9Z/BRTV.png", BADAR TV
 https://e1.siar.us/badartv/live/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/NWDNg6w/GARUDA-TV.png", GARUDA TV
-https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 group-title="LOKAL" tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png",Jogja TV
-https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="http://4.bp.blogspot.com/-PixlZ0h_as8/T0UKcGPkP9I/AAAAAAAAAEw/NYVjjDeBgzc/s1600/sakti%2Bmadiun.jpg", SaktiTV Madiun
-http://video2.onlivestreaming.net/saktitv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/XtscRmF/jambi.png",Jambi TV
-http://122.248.43.138:1935/ch23/myStream/live.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Bali
