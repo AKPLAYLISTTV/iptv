@@ -69,6 +69,14 @@ https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 https://anevia114.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/L1fTWVZ/JITV-LOGO.png", JITV HD
 http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:0 tvg-id="JakTV" tvg-name="JakTV" tvg-url="http://www.useetv.com" tvg-logo="https://i.ibb.co/xFP0Rgv/JAKTV.png" group-title="LOKAL",JAKTV
+https://av-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:0 tvg-id="BandungTV.id" tvg-name="" tvg-url="" tvg-logo="https://i.ibb.co/6mxqb2F/BANDUNG-TV.png" group-title="LOKAL",BandungTV
+https://av-live-cdn.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/01/cropped-LOGO-e1610615362293.png", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Logo_JPM_Jawapos.png",Jawa Pos TV
@@ -552,10 +560,22 @@ https://av-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="CHANNEL WORLD" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jiangsu_tv.png",Jiangsu TV
 https://av-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dragon-tv-cn.png",Dragon TV
+https://av-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 #EXTINF:-1 group-title="CHANNEL WORLD" tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg", CCTV4
 http://210.210.155.35:80/qwr9ew/s/s19/01.m3u8
 #EXTINF:-1 group-title="CHANNEL WORLD" tvg-logo="https://images.bisnis-cdn.com/posts/2017/03/04/633955/dens-tv.jpg", NHK WORLD JAPAN
 http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_248.jpg",TLC Southeast Asia
+https://av-live-cdn.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 group-title="Hiburan & Gaya Hidup" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-5-monde-asie-fr.png",TV5Monde Asie
+https://av-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png?v=2.0.0.15",CNN Indonesia
