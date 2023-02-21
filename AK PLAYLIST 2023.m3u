@@ -234,7 +234,7 @@ https://av-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Kh8mQ2r/channel-14-modified.png",Indonesia Movie Channels
 https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/WS8GnIB.png" ,The Indonesia Channel
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/84mryzC/TIC.png" ,The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -272,35 +272,35 @@ http://rr.dens.tv/h/h194/index.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://thumbor.prod.vidiocdn.com/qFHtu3jH8fCY4AJeQJqavmV-3mg=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6399/84f7c4.png", ZEE BIOSKOP
 http://210.210.155.37/qwr9ew/s/s32/index.m3u8#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Entertainment.png",Rock Entertainment
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://i.ibb.co/FBh90tp/ROCK-ENTERTAIMENT.png",Rock Entertainment
 http://rr1.dens.tv/h/h16/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 group-title="MOVIES" tvg-logo="https://rubbyguntara.github.io/src/img/Rock_Extreme.png",Rock Extreme
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://i.ibb.co/9WDnjnV/ROCK-EXTREME.png",Rock Extreme
 http://rr1.dens.tv/h/h15/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19765549_ico.png?ts=1654800851",ACTION MOVIES
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/TPQmKLk/ACTION-MOVIES.png",ACTION MOVIES
 http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19974448_ico.png?ts=1655149932",MOVIE SHAPIER
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/KVJvJyN/MOVIE-SPHERE.png",MOVIE SPHERE
 https://moviesphere-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236262_ico.png?ts=1663825260",Black Cinema
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/cQTQrB6/BLACK-CINEMA.png",Black Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=80&deviceId=58af4c093a41ca9d4ecabe96&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236257_ico.png?ts=1663825417",PlutoTV Terror
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/HV14x8w/PLUTO-TV-TERROR.png",PlutoTV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236261_ico.png?ts=1663825827",PlutoTV Action
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/W2nzNxd/PLUTO-TV-ACTION.png",PlutoTV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://vignette.wikia.nocookie.net/underworld-empire/images/9/97/Icon_lieutenant_star_1.png/revision/latest?cb=20130926182603",Star 1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/16B10xk/STAR1.png",Star 1
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236312_ico.png?ts=1663828394",Star 2
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/LJ398j3/STAR2.png",Star 2
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/s8oAVs8.png",Wowow Cinema
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/jbMmWLW/WOWOW-CINEMA.png",Wowow Cinema
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/sP1m0wl.png",Wowow Prime
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/PZTkDxt/WOWOW-PRIME.png",Wowow Prime
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/9XiSzoQ.png",Wowow Plus
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/YBvdz7q/WOWOW.png",Wowow Plus
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20236290_ico.png?ts=1663828486",BluTV Play 1
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/Zccgs6M/BLUE-TV1.png",BluTV Play 1
 http://mn-nl.mncdn.com/blutv_play1/live_720p2000000kbps/index.m3u8
-#EXTINF:-1 group-title="MOVIES" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/21238464_ico.png?ts=1663828606",BluTV Play 2
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/b31gzGv/BLUE-TV-2.png",BluTV Play 2
 http://mn-nl.mncdn.com/blutv_play2/live_720p2000000kbps/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
