@@ -15,14 +15,14 @@ https://av-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/Z8zTYMd/62550521-2221755784545427-6717567406312521728-n-modified.png",iNews
 https://av-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png" group-title="LOKAL",INDOSIAR
+#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png" group-title="INDONESIA",INDOSIAR
 #http://mpwtv.my.id/vidioye/205-indosiar.m3u8
 http://103.167.167.5:8111/play/a00r/index.m3u8
-#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://i.ibb.co/CP2Ft6N/SCTV.png" group-title="LOKAL",SCTV
+#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://i.ibb.co/CP2Ft6N/SCTV.png" group-title="INDONESIA",SCTV
 http://mpwtv.my.id/vidioye/204-sctv.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://i.ibb.co/QvbDPvR/NET.png" group-title="LOKAL",Net.
+#EXTINF:0 tvg-id="Net..Id" tvg-logo="https://i.ibb.co/QvbDPvR/NET.png" group-title="INDONESIA",Net.
 https://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
@@ -42,7 +42,7 @@ http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png" group-title="LOKAL",ANTV
+#EXTINF:0 tvg-id="ANTV.Id" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png" group-title="INDONESIA",ANTV
 https://nxanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
