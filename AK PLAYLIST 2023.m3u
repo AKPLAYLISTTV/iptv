@@ -387,6 +387,7 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.useetv.com/pimages/logo_animax_big.png?v=1",Animax
 https://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://i.ibb.co/K2vm2KJ/INDIKIDS.png",INDIKIDS https://streaming.indihometv.com/joss/130/indikids/playlist.m3u8?enc=84Hz3YF30fruiUtEX2ElsQ&exp=1673406837&encp=0l0vUHjfyE2TssfgxakZrA&expp=1673415537
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
