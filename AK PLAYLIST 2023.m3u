@@ -333,41 +333,39 @@ https://av-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png",SPOTV 2
 https://av-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/k6S2RLx/UNIFI-1.png",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/m5yY5Mn/UNIFI-2.png",Unifi Sports 2
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.mpd
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3M82Y8YcqtSXtuHDW4Pf2k4KnhvBscSW3BQ&usqp=CAU", Real Madrid TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/NCMhX2C/REALMADRID-TV.png", Real Madrid TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/mp6mgwy.png",MU TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/PTzwxjV/MU-TV.png",MU TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="FightSports.us" tvg-logo="https://i.ibb.co/XsDyNYM/cbd69886-bb5-removebg-preview-modified.png",FIGHT SPORTS
 https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://wrestlingheadlines.com/wp-content/uploads/2021/06/impact-wrestling-logo.jpg",IMPACT! Wrestling
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/DkzmSm2/IMPACT.png",IMPACT! Wrestling
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/MMATV_logo_dark.png",MMA TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/KKnpnvQ/MMA-TV.png",MMA TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=819&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=Rs19sdFRTfJdn9Wyxa4f&custom_7=60ecb878ebef9d002c4d0a11&is_lat=0
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/JApkfiF.png",Tennis Channel
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/VjQjT5Z/TENIS-CHANNEL.png",Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="RedBullTV.at" tvg-logo="https://i.ibb.co/zxvTqGK/download-5-modified-1.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="SPORTS" logo="https://a.jsrdn.com/hls/23064/kozoom-tv/thumbh_20220531_190547.jpg", KOZOOM TV
+#EXTINF:-1 group-title="SPORTS" logo="https://i.ibb.co/XCV5hxf/KOZOOM.png", KOZOOM TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kozoom-tv/manifest.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/R4F2BwV/BILLIARDTV-BEARTV.png",BILLIARD TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/hcgmnXJ/BILLIARD-TV.png",BILLIARD TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/billiard-tv/BILLIARDTV_SCTE.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/stadium_gracenote_logo.png",Stadium
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Zz8sTCr/STADIUM.png",Stadium
 https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/playlist.m3u8
 https://7bfb0497795c4d3db90a041bf4cbdae6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Stadium/playlist.m3u8?ads.wurl_channel=160&ads.wurl_name=Stadium&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Rs19sdFRTfJdn9Wyxa4f&ads.plex_id=5f6142d2fc6ce20041ec3c92&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
-#EXTINF:-1 group-title="SPORTS" tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV" tvg-logo="http://www.dens.tv/images/channel-logo/98.jpg",Motorvision TV HD
+#EXTINF:-1 group-title="SPORTS" tvg-id="MotorvisionTV.de" tvg-name="Motorvision TV" tvg-logo="https://i.ibb.co/fvxszg8/MOTORVISION-TV.png",Motorvision TV HD
 http://rr.dens.tv/h/h09/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="ext",NBA TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/30855
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/60d4db4f95e42d5ab722ad92",Ski TV
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/ct92DsW/SKI-TV.png",Ski TV
 https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/ee/edge_sport_uk.png", EDGE sports
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/wS878Xt/EDGE-SPORT.png", EDGE sports
 http://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-id="FITE" tvg-name="FITE" tvg-logo="https://i.imgur.com/4w95NZQ.png",FITE
+#EXTINF:-1 group-title="SPORTS" tvg-id="FITE" tvg-name="FITE" tvg-logo="https://i.ibb.co/djhmLdW/FITE.png",FITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 
