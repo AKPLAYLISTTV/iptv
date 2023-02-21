@@ -92,94 +92,94 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4
 #EXTINF:-1 tvg-logo="https://s.id/1dYfQ" group-title="LOKAL",Madu TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bb7vSFt/GPR-TV.png" group-title="LOKAL",GPR TV
 https://alfa.kugo.id/gprtv/rtmp.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/03/LOGO-SANGAJI-TV-2048x475.png" group-title="LOKAL",Sangaji TV
+#EXTINF:-1  tvg-logo="https://i.ibb.co/CsTySzc/sangaji-tv.png" group-title="LOKAL",Sangaji TV
 https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/9vFQ5bV/BBS-TV.png", BBS TV
 http://103.119.54.246:8080/hls/bbstv.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KW9icSqlC50/maxresdefault_live.jpg" group-title="LOKAL",DTVI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZJpkxpx/dtvi.png" group-title="LOKAL",DTVI
 https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/Qf40K9Z/BRTV.png", BADAR TV
 https://e1.siar.us/badartv/live/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Aceh
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Bali
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Bali
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Bengkulu
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Bengkulu
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8?checkedby:iptvcat.net
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Lampung
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Lampung
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8?checkedby:iptvcat.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Sumatra Selatan
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Sumatra Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Sumatra Barat
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Sumatra Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI DKI Jakarta
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI DKI Jakarta
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8?checkedby:iptvcat.net
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Jogjakarta
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Gorontalo
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Gorontalo
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Jambi
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Jambi
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Jawa Barat
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Jawa Barat
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Jawa Tengah
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Jawa Tengah
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Jawa Timur
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Jawa Timur
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8?checkedby:iptvcat.net
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Nusa Tenggara Barat
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Nusa Tenggara Barat
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Nusa Tenggara Timur
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Nusa Tenggara Timur
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8?checkedby:iptvcat.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Sulawesi Selatan
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Sulawesi Selatan
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Sulawesi Tengah
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Sulawesi Tengah
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8?checkedby:iptvcat.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Sulawesi Utara
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Sulawesi Utara
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Sulawesi Barat
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Sulawesi Barat
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Kalimantan Barat
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Kalimantan Barat
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Kalimantan Selatan
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Kalimantan Selatan
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Kalimantan Tengah
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Kalimantan Tengah
 http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="",TVRI Kalimantan Timur
+#EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Kalimantan Timur
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8?checkedby:iptvcat.net
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/New_Logo_TVRI.png/800px-New_Logo_TVRI.png",TVRI Papua
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Papua
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
