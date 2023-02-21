@@ -63,7 +63,7 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/7JSpnR2/DAAI-TV.png",Da Ai TV Indonesia
 https://av-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-#EXTINF:-1 group-title=LOKAL" tvg-logo="https://i.ibb.co/cY5SX6x/JTV.png",JTV
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/cY5SX6x/JTV.png",JTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 https://anevia114.mncnow.id/live/eds/JTV/sa_dash/JTV.mpd
