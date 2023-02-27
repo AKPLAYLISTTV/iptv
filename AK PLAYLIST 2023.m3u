@@ -998,7 +998,3 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist_b4596000_slENG.m3u8?i
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
 #EXTINF:-1 tvg-id="DewanNegara.My" tvg-logo="https://cdn.ksa.my.id/dewannegara.png" group-title="MALAYSIA",Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
-
-#EXTINF:0 tvg-id="TVRI.Id" tvg-logo="https://anutv.xyz/gambar/indosiar.jpg" group-title="Lokal",INDOSIAR
-#http://mpwtv.my.id/vidioye/205-indosiar.m3u8
-http://103.167.167.5:8111/play/a00r/index.m3u8
