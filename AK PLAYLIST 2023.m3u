@@ -111,9 +111,12 @@ http://103.119.54.246:8080/hls/bbstv.m3u8
 https://alfa.kugo.id/dtvi/rtmp.stream/playlist.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/Qf40K9Z/BRTV.png", BADAR TV
 https://e1.siar.us/badartv/live/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://1.bp.blogspot.com/-nma42uv0liI/VW-snciNhkI/AAAAAAAAHFU/a9RZR8vIoDo/s1600/tegar%2Btv.jpg", TEGAR TV http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madu-tv-id.png", MADU TV https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 group-title="LOKAL" tvg-logo="https://images-video.mivo.com/thumbnails/streamers/out/90438/1562231737700-normal.jpg", PUJA TV ACEH https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://1.bp.blogspot.com/-nma42uv0liI/VW-snciNhkI/AAAAAAAAHFU/a9RZR8vIoDo/s1600/tegar%2Btv.jpg", TEGAR TV
+http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://www.lyngsat.com/logo/tv/mm/madu-tv-id.png", MADU TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 group-title="LOKAL" tvg-logo="https://images-video.mivo.com/thumbnails/streamers/out/90438/1562231737700-normal.jpg", PUJA TV ACEH
+https://v6.siar.us/pujatv/live/chunks.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Aceh
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8?checkedby:iptvcat.net
 #EXTINF:-1 group-title="LOKAL" tvg-country="ID" tvg-logo="https://i.ibb.co/gdTrV5W/TVRI.png",TVRI Bali
@@ -381,17 +384,28 @@ http://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-id="FITE" tvg-name="FITE" tvg-logo="https://i.ibb.co/djhmLdW/FITE.png",FITE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png", DUBAI SPORTS 1 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png", DUBAI SPORTS 2 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png", DUBAI SPORTS 3 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png", ABU DHABI SPORTS 1 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png", ABU DHABI SPORTS 2 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Beinsport 1 PREMIUM http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Beinsport 2 PREMIUM http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",Beinsport 3 PREMIUM http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png", BEIN SPORTS EXTRA https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 1 http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
-#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 2 http://ku3.worldtvip.co/uk_bt_sports_2_hd/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png", DUBAI SPORTS 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png", DUBAI SPORTS 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dubai-sports-ae.png", DUBAI SPORTS 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-1-ae.png", ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/aa/abu-dhabi-sports-2-ae.png", ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Beinsport 1 PREMIUM
+http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Beinsport 2 PREMIUM
+http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",Beinsport 3 PREMIUM
+http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bein-sports-xtra-1-qa.png", BEIN SPORTS EXTRA
+https://siloh.pluto.tv/lilo/production/bein/1/master.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 1
+http://ku3.worldtvip.co/uk_bt_sports_1_hd/index.m3u8?token=924ea83b1945763373380821c2d61863
+#EXTINF:-1 group-title="SPORTS" tvg-logo="",BT SPORT 2
+http://ku3.worldtvip.co/uk_bt_sports_2_hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Au1Wa24.png" group-title="SPORTS",Fox Sports 1
 https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DpnatBM.png" group-title="SPORTS",Fox Sports 2
@@ -495,7 +509,8 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-103 group-title="RELIGI" tvg-logo="http://live.artvisi.or.id/logo/surautv.png",SURAU TV
 https://h1.intechmedia.net/intech/ch3.m3u8
-#EXTINF:-1 group-title="RELIGI" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg",RodjaTV http://rr2.dens.tv/s/s14/index10.m3u8
+#EXTINF:-1 group-title="RELIGI" tvg-logo="http://www.dens.tv/images/channel-logo/21.jpg",RodjaTV
+http://rr2.dens.tv/s/s14/index10.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTINF:-1 group-title="RELIGI" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-mu-id.png",TV Mu
@@ -1003,10 +1018,14 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/chunklist_b4596000_slENG.m3u8?id=
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
 #EXTINF:-1 tvg-id="TV6.My" tvg-logo="https://cdn.ksa.my.id/tv6.png" group-title="MALAYSIA",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/chunklist_b4596000_slENG.m3u8?id=5|Referer=https://rtm-player.glueapi.io/
-#EXTINF:-1 group-title="MALAYSIA" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9 https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
-#EXTINF:-1 group-title="MALAYSIA" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
+#EXTINF:-1 group-title="MALAYSIA" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton4_720p/index.m3u8
+#EXTINF:-1 group-title="MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton5_720p/index.m3u8
+#EXTINF:-1 group-title="MALAYSIA" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton2_720p/index.m3u8
+#EXTINF:-1 group-title="MALAYSIA" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
+https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8
 #EXTINF:-1  tvg-id="unifiSports1.My" tvg-logo="https://cdn.ksa.my.id/unifisports1.png" group-title="MALAYSIA",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1  tvg-id="unifiSports2.My" tvg-logo="https://cdn.ksa.my.id/unifisports2.png" group-title="MALAYSIA",Unifi Sports 2
