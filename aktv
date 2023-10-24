@@ -42,13 +42,13 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/WkCfXF7/TRANS-7.png",TRANS 7
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/jWnC756/TRANS-TV.png",TRANS TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/WxcG7kT/KOMPAS-TV.png",KOMPAS TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/kompastv.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 
 #EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png" group-title="INDONESIA",TV ONE
 http://digitalnow.live:8080/gratisan/4kERDedz6R/21063
