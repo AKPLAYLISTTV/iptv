@@ -8,28 +8,28 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png", RCTI
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="INDONESIA",RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png", GTV
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="INDONESIA",GTV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png", MNC TV
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="INDONESIA",MNC TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/Z8zTYMd/62550521-2221755784545427-6717567406312521728-n-modified.png", INEWS
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="INDONESIA" tvg-id="iNews.id" tvg-url="" tvg-logo="https://i.ibb.co/Z8zTYMd/62550521-2221755784545427-6717567406312521728-n-modified.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="indosiar.id" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png", INDOSIAR
@@ -54,7 +54,7 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u
 http://digitalnow.live:8080/gratisan/4kERDedz6R/21063
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png",METRO TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/metrotv.m3u8
+http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -665,7 +665,7 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS",Mentari TV
-http://iptvaruba.com:8080/babar2020ex/sdDFGFtM8QnwbgWZ/298546
+https://iptvme.xyz:443/vid/hls.m3u8?id=8237
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/4jt8Cdy/CARTOON-NETWORK.png" group-title="KIDS",CARTOON NETWORK
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
@@ -1631,7 +1631,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e
 http://nonton.wap.sh/id/014.m3u8
 
 #EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png",METRO TV
-http://nonton.wap.sh/id/011.m3u8
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
 =========================================================================================================================================================================
   
