@@ -53,23 +53,29 @@ http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/jWnC756/TRANS-TV.png",TRANS TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/WxcG7kT/KOMPAS-TV.png",KOMPAS TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/03.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/WxcG7kT/KOMPAS-TV.png", KOMPAS TV
+https://s.id/kompastvaktv
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png", TV ONE
-https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOn
+https://s.id/TVONEAKTV
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png",METRO TV
-http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png",ANTV
-https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png", METRO TV
+https://s.id/metrotvaktv
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png", ANTV
+https://s.id/antvaktv
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1596,8 +1602,11 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/chunklist_b4596000_slENG.m3u8?
 
 =========================================================================================================================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="AK PLAYLIST", RCTI
-http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/157591
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="AK PLAYLIST",RCTI
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="AK PLAYLIST", GTV
 https://apel-live-cdn.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
@@ -1611,17 +1620,23 @@ http://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png", INDOSIAR
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/CP2Ft6N/SCTV.png", SCTV
-http://rr2.dens.tv/s/s03/02.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/CP2Ft6N/SCTV.png", SCTV
+https://etslive-2-vidio-com.akamaized.net/exp=1698237804~acl=/hls-p/ingest_204_*/*~hmac=5fa5a64669d0f02d4298c0e68f763112196928e615ab4583b7f939b543297af7/hls-p/ingest_204_720p/index.m3u8
 
 #EXTINF:-1 tvg-id="Trans7.Id" tvg-logo="https://i.ibb.co/WkCfXF7/TRANS-7.png" group-title="AK PLAYLIST",Trans 7
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/trans7.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 
 #EXTINF:-1 tvg-id="TransTV.Id" tvg-logo="https://i.ibb.co/jWnC756/TRANS-TV.png" group-title="AK PLAYLIST",Trans TV
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/transtv.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
 
-#EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://i.ibb.co/QvbDPvR/NET.png" group-title="AK PLAYLIST", NET TV
-https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/QvbDPvR/NET.png", NET TV
+https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=7mtkyeoecke&chname=NET.
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1629,14 +1644,17 @@ https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png", TvOne
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
 
-#EXTINF:-1 tvg-id="ANTV.Id" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png" group-title="AK PLAYLIST",ANTV
-http://rr2.dens.tv/s/s07/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png",ANTV
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #EXTINF:-1 tvg-id="RTV.Id" tvg-logo="https://i.ibb.co/Dg32pFw/RTV.png" group-title="AK PLAYLIST",RTV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
 
 #EXTINF:-1 tvg-id="KompasTV.Id" tvg-logo="https://i.ibb.co/WxcG7kT/KOMPAS-TV.png" group-title="AK PLAYLIST",Kompas TV
-http://nonton.wap.sh/id/014.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/03.m3u8
 
 #EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png",METRO TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
