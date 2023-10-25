@@ -33,7 +33,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="indosiar.id" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png", INDOSIAR
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/indosiar.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://i.ibb.co/CP2Ft6N/SCTV.png",SCTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
@@ -50,8 +50,11 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/WxcG7kT/KOMPAS-TV.png",KOMPAS TV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
 
-#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png" group-title="INDONESIA",TV ONE
-http://digitalnow.live:8080/gratisan/4kERDedz6R/21063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png", TvOne
+https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOn
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
@@ -1600,7 +1603,7 @@ https://apel-live-cdn.mncnow.id/live/eds/MNCTV-HD2/sa_hls/MNCTV-HD2.m3u8
 http://apel-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
 #EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png", INDOSIAR
-http://rr2.dens.tv/s/s04/02.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/CP2Ft6N/SCTV.png", SCTV
 http://rr2.dens.tv/s/s03/02.m3u8
@@ -1618,7 +1621,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h06/01.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png", TvOne
-http://210.210.155.35/uq2663/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOne
 
 #EXTINF:-1 tvg-id="ANTV.Id" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png" group-title="AK PLAYLIST",ANTV
