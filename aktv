@@ -38,24 +38,25 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extensi
 #EXTINF:-1 group-title="INDONESIA" tvg-id="sctv.id" tvg-logo="https://i.ibb.co/CP2Ft6N/SCTV.png",SCTV
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
-#EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://i.ibb.co/QvbDPvR/NET.png" group-title="INDONESIA", NET TV
-https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
-https://op-group1-swiftservesd-1.dens.tv/h/h06/02.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/QvbDPvR/NET.png", NET TV
 https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=7mtkyeoecke&chname=NET.
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/WkCfXF7/TRANS-7.png",TRANS 7
-http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/03.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/jWnC756/TRANS-TV.png",TRANS TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/02.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/WxcG7kT/KOMPAS-TV.png",KOMPAS TV
-http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/02.m3u8
+http://edge.linknetott.swiftserve.com/channelgroup3/cg358production/ch410/03.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png", TvOne
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png", TV ONE
 https://op-krgroup1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=tvOn
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png",METRO TV
