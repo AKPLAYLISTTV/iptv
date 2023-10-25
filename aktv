@@ -39,7 +39,7 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extensi
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/sctv.m3u8
 
 #EXTINF:-1 tvg-id="Net..Id" tvg-logo="https://i.ibb.co/QvbDPvR/NET.png" group-title="INDONESIA", NET TV
-https:\/\/op-group1-swiftservesd-1.dens.tv\/h\/h06\/index.m3u8?app_type=web&userid=7mtkyeoecke&chname=NET.
+https://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/WkCfXF7/TRANS-7.png",TRANS 7
 http://edge.linknetott.swiftserve.com/channelgroup5/cg548production/ch397/02.m3u8
