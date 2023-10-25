@@ -23,3 +23,12 @@ https://s.id/antvaktv
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png", METRO TV
 https://s.id/metrotvaktv
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/jWnC756/TRANS-TV.png",TRANS TV
+https://cdnjkt2.transvision.co.id:1004/live/chunk/4028c685651d7bcc01651f0b6d210096/2000/chunk-stream0-5320
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/jWnC756/TRANS-TV.png", TRANS TV
+https://cdnjkt2.transvision.co.id:1004/live/chunk/4028c685651d7bcc01651f0b6d210096/2000/chunk-stream0-5320
