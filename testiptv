@@ -29,4 +29,10 @@ https://s.id/metrotvaktv
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="INDONESIA",KIDS TV
-https:\u002F\u002Fmangga-live-cdn.mncnow.id\u002Flive\u002Feds\u002FMNCTV-HD\u002Fsa_dash_vmx\u002FMNCTV-HD.mpd
+https:\u002\u002mangga-live-cdn.mncnow.id\u002live\u002eds\u002MNCTV-HD\u002sa_dash_vmx\u002MNCTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="INDONESIA",KIDS TV
+https://mangga-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
