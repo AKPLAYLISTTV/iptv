@@ -62,23 +62,8 @@ https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
 #EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png" group-title="INDONESIA",TV ONE
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png", TV ONE
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(0f118d05-28b3-49ed-8de8-ccb58f6460e1)/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png", TV ONE
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(0f118d05-28b3-49ed-8de8-ccb58f6460e1)/index.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png" group-title="INDONESIA",METRO TV
-https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png" group-title="INDONESIA", METRO TV
+https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
