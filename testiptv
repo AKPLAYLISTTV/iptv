@@ -12,3 +12,14 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(860b78cb-39ac
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png" group-title="INDONESIA",ANTV
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(860b78cb-39ac-46c3-b070-4db13493381a)/manifest.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://maxstream.tv/tv-channels/0_oue2zst2
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png" group-title="INDONESIA",ANTV
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(860b78cb-39ac-46c3-b070-4db13493381a)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-referrer=https://maxstream.tv/tv-channels/0_oue2zst2
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/jfzJhtx/ANTV.png" group-title="INDONESIA",ANTV
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(860b78cb-39ac-46c3-b070-4db13493381a)/manifest.mpd
