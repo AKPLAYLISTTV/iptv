@@ -33,7 +33,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="indosiar.id" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png", INDOSIAR
-https://s.id/indosiaraktv
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=994885&extension=ts&play_token=GVZS088tcf
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -41,14 +41,14 @@ https://s.id/indosiaraktv
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/CP2Ft6N/SCTV.png", SCTV
 https://s.id/sctvaktv
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/QvbDPvR/NET.png", NET TV
-https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=7mtkyeoecke&chname=NET.
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/QvbDPvR/NET.png" group-title="INDONESIA",NET TV
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/WkCfXF7/TRANS-7.png",TRANS 7
-https://s.id/trans7aktv
+https://bromo.kdb.co.id/Trans7/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/jWnC756/TRANS-TV.png",TRANS TV
 https://s.id/transtvaktv
@@ -59,17 +59,17 @@ https://s.id/transtvaktv
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/WxcG7kT/KOMPAS-TV.png", KOMPAS TV
 https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png", TV ONE
-https://s.id/tvoneak
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/ZLk12HJ/TV-ONE.png" group-title="INDONESIA",TV ONE
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png", METRO TV
-https://s.id/metrotvaktvnew
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png" group-title="INDONESIA",METRO TV
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -693,7 +693,7 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="KIDS", KIDS TV
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_46.png" group-title="KIDS",KIDS TV
 https://nyanv-live-cdn.mncnow.id/live/eds/Kids-HD/sa_dash_vmx/Kids-HD.mpd
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1vV1D11/FUN-PLANET.png" group-title="KIDS", FUN PLANET
@@ -2795,12 +2795,3 @@ https://rakuten-africanews-1-eu.rakuten.wurl.tv/playlist.m3u8#sapp_flv2mpeg4=1&s
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GdKfgGS/AK-PLAYLIST-TV.png" group-title="CHANNEL PREMIUM", Reuters (EU)
 https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8#sapp_flv2mpeg4=1&sapp_progressive=1&sapp_live_ts=1
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GdKfgGS/AK-PLAYLIST-TV.png" group-title="BERKAH MUSIC RECORD", AGO RINANTO - CUKUP AKU YANG TAHU
-https://www.googleapis.com/drive/v3/files/1NexrgA-pX3PL6m21OoQxwe453E2-CENY?alt=media&key=AIzaSyAmjd0EBWeDT8RjSTnngGNpo5dsflC6KJk
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gVv4hjm/Untitled-1.jpg" group-title="BERKAH MUSIC RECORD", NISSA CHOIR - CINTA DAN NAFASKU
-https://www.googleapis.com/drive/v3/files/1rEZBPUvv_8qoQOKiRnCmTc8UDrEB7fkU?alt=media&key=AIzaSyAmjd0EBWeDT8RjSTnngGNpo5dsflC6KJk
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GdKfgGS/AK-PLAYLIST-TV.png" group-title="BERKAH MUSIC RECORD", AKBVR NAYO - SADAR DIRI
-https://www.googleapis.com/drive/v3/files/1rwPn3dlVdcfP2kPLbKB5Icwyz0yb4GeV?alt=media&key=AIzaSyAmjd0EBWeDT8RjSTnngGNpo5dsflC6KJk
