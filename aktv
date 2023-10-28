@@ -454,7 +454,7 @@ http://rr1.dens.tv/h/h16/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 group-title="MOVIES" tvg-logo="hhttps://i.ibb.co/hmJg26F/ROCK-EXTREAM.png",Rock Extreme
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://i.ibb.co/hmJg26F/ROCK-EXTREAM.png",Rock Extreme
 http://rr1.dens.tv/h/h15/index.m3u8
 
 ==========================================================================================================================================================================
