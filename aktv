@@ -343,8 +343,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #EXTINF:-1 group-title="MOVIES" tvg-id="flik.id" tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png",FLIK
 https://delivery.ksa.my.id/stream/flik/playlist.m3u8?token=ym1wtrp&v=20200807
 
-#EXTINF: -1 tvg-url="" tvg-logo="https://i.ibb.co/2Z4RZsD/CITRA-BIOSKOP.png" group-title="MOVIES",Citra Bioskop
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-id="bioskopindonesia.id" tvg-logo="https://i.ibb.co/jVhTq6W/BIOSKOP-INDONESIA.png",Bioskop Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jVhTq6W/BIOSKOP-INDONESIA.png" group-title="MOVIES",Bioskop Indonesia
 https://ktpremium.com:443/mw007/3300722007/73873
@@ -370,23 +375,32 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 #EXTINF:-1 group-title="MOVIES" tvg-id="GALAXYPremium" tvg-url="" tvg-logo="https://i.ibb.co/rZ29LTH/GALAXY-PREMIUM.png",Galaxy Premium
 https://nyanv-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4KnFGpV/TVN.png" group-title="MOVIES", TVN PREMIUM
-https://ktpremium.com:443/mw007/3300722007/73985
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/4KnFGpV/TVN.png" group-title="MOVIES",TVN PREMIUM
+https://nyanv-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0yQg4x8/TVN-MOVIES.png" group-title="MOVIES", TVN MOVIES
-https://ktpremium.com:443/mw007/3300722007/73986
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/0yQg4x8/TVN-MOVIES.png" group-title="MOVIES",TVN MOVIES
+https://nyanv-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/hRcNPjL/NADOO-KOREAN.png" group-title="MOVIES",NaDoo Korean
 http://op-group1-swiftservehd-1.dens.tv/h/h125/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cXHWNsX/ONE.png" group-title="MOVIES", ONE
-https://ktpremium.com:443/mw007/3300722007/26009
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/cXHWNsX/ONE.png" group-title="MOVIES",ONE
+https://nyanv-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #EXTINF:-1 tvg-id= "K-Plus" tvg-url="" tvg-logo="https://i.ibb.co/Gk3gBMb/K-PLUS.png" group-title="MOVIES",K+
 http://rr.dens.tv/h/h08/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nmM0Z8c/HITS.png" group-title="MOVIES", HITS
-https://ktpremium.com:443/mw007/3300722007/73662
+https://op-group1-swiftservehd-1.dens.tv/h/h205/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -447,7 +461,7 @@ http://rr1.dens.tv/h/h16/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 group-title="MOVIES" tvg-logo="hhttps://i.ibb.co/hmJg26F/ROCK-EXTREAM.png",Rock Extreme
+#EXTINF:0 group-title="MOVIES" tvg-logo="https://i.ibb.co/hmJg26F/ROCK-EXTREAM.png",Rock Extreme
 http://rr1.dens.tv/h/h15/index.m3u8
 
 ===========================================================================================================================================================
