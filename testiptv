@@ -1,92 +1,279 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 1
-http://103.166.27.2:8112/play/b001
+#EXTM3U
+#EXTINF:-1,ANTV HD
+http://103.166.27.2:800/play/a01g
+#EXTINF:-1,Aswaja TV
+http://103.166.27.2:800/play/a020
+#EXTINF:-1,CNBC INDONESIA HD
+http://103.166.27.2:800/play/a01e
+#EXTINF:-1,CNN INDONESIA HD
+http://103.166.27.2:800/play/a01d
+#EXTINF:-1,Dangdut Tivi
+http://103.166.27.2:800/play/a01x
+#EXTINF:-1,Hadi TV
+http://103.166.27.2:800/play/a01v
+#EXTINF:-1,INDOSIAR HD
+http://103.166.27.2:800/play/a016
+#EXTINF:-1,JTV
+http://103.166.27.2:800/play/a01s
+#EXTINF:-1,KOMPASTV HD
+http://103.166.27.2:800/play/a019
+#EXTINF:-1,LAGU TV
+http://103.166.27.2:800/play/a01u
+#EXTINF:-1,MENTARI HD
+http://103.166.27.2:800/play/a018
+#EXTINF:-1,MOJI HD
+http://103.166.27.2:800/play/a017
+#EXTINF:-1,Madu TV Nusantara
+http://103.166.27.2:800/play/a01y
+#EXTINF:-1,RCTI HD
+http://103.166.27.2:800/play/a022
+#EXTINF:-1,RuaiTV
+http://103.166.27.2:800/play/a01w
+#EXTINF:-1,SCTV HD
+http://103.166.27.2:800/play/a015
+#EXTINF:-1,TRANS 7 HD
+http://103.166.27.2:800/play/a01c
+#EXTINF:-1,TRANS TV HD
+http://103.166.27.2:800/play/a01b
+#EXTINF:-1,TV Tabalong
+http://103.166.27.2:800/play/a01z
+#EXTINF:-1,TVONE
+http://103.166.27.2:800/play/a01h
+#ID 🇮🇩
+http://103.166.27.2:800/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 2
-http://103.166.27.2:8112/play/b002
+#EXTINF:-1,ANTV HD
+http://103.166.27.2:800/play/a01g
+#EXTINF:-1,Aswaja TV
+http://103.166.27.2:800/play/a020
+#EXTINF:-1,CINEMACHI
+http://103.166.27.2:800/play/a028
+#EXTINF:-1,CINEMACHI ACTION
+http://103.166.27.2:800/play/a026
+#EXTINF:-1,CINEMACHI KIDS
+http://103.166.27.2:800/play/a024
+#EXTINF:-1,CINEMACHI MAX
+http://103.166.27.2:800/play/a029
+#EXTINF:-1,CINEMACHI XTRA
+http://103.166.27.2:800/play/a025
+#EXTINF:-1,CNBC INDONESIA HD
+http://103.166.27.2:800/play/a01e
+#EXTINF:-1,CNN INDONESIA HD
+http://103.166.27.2:800/play/a01d
+#EXTINF:-1,COMING SOON
+http://103.166.27.2:800/play/a02c
+#EXTINF:-1,DREAMWORKS
+http://103.166.27.2:800/play/a027
+#EXTINF:-1,Dangdut Tivi
+http://103.166.27.2:800/play/a01x
+#EXTINF:-1,Hadi TV
+http://103.166.27.2:800/play/a01v
+#EXTINF:-1,INDOSIAR HD
+http://103.166.27.2:800/play/a016
+#EXTINF:-1,JTV
+http://103.166.27.2:800/play/a01s
+#EXTINF:-1,KOMPASTV HD
+http://103.166.27.2:800/play/a019
+#EXTINF:-1,LAGU TV
+http://103.166.27.2:800/play/a01u
+#EXTINF:-1,MENTARI HD
+http://103.166.27.2:800/play/a018
+#EXTINF:-1,MOJI HD
+http://103.166.27.2:800/play/a017
+#EXTINF:-1,Madu TV Nusantara
+http://103.166.27.2:800/play/a01y
+#EXTINF:-1,PARAMOUNT NETWORK
+http://103.166.27.2:800/play/a02a
+#EXTINF:-1,RCTI
+http://103.166.27.2:800/play/a02e
+#EXTINF:-1,RuaiTV
+http://103.166.27.2:800/play/a01w
+#EXTINF:-1,SCTV HD
+http://103.166.27.2:800/play/a015
+#EXTINF:-1,SPORTSTARS 4 HD
+http://103.166.27.2:800/play/a02d
+#EXTINF:-1,TRANS 7 HD
+http://103.166.27.2:800/play/a01c
+#EXTINF:-1,TRANS TV HD
+http://103.166.27.2:800/play/a01b
+#EXTINF:-1,TV Tabalong
+http://103.166.27.2:800/play/a01z
+#EXTINF:-1,TVONE
+http://103.166.27.2:800/play/a01h
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 3
-http://103.166.27.2:8112/play/b003
+#EXTM3U
+#EXTINF:-1 ,ANTV HD
+http://103.166.27.2:800/play/a01g
+#EXTINF:-1 ,CNBC INDONESIA HD
+http://103.166.27.2:800/play/a01e
+#EXTINF:-1 ,CNN INDONESIA HD
+http://103.166.27.2:800/play/a01d
+#EXTINF:-1 ,INDOSIAR HD
+http://103.166.27.2:800/play/a016
+#EXTINF:-1 ,KOMPASTV HD
+http://103.166.27.2:800/play/a019
+#EXTINF:-1 ,MENTARI HD
+http://103.166.27.2:800/play/a018
+#EXTINF:-1 ,MOJI HD
+http://103.166.27.2:800/play/a017
+#EXTINF:-1 ,RCTI
+http://103.166.27.2:800/play/a01p
+#EXTINF:-1 ,SCTV HD
+http://103.166.27.2:800/play/a015
+#EXTINF:-1 ,TRANS 7 HD
+http://103.166.27.2:800/play/a01c
+#EXTINF:-1 ,TRANS TV HD
+http://103.166.27.2:800/play/a01b
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 4
-http://103.166.27.2:8112/play/b004
+#EXTM3U
+#EXTINF:-1,ANIMAL PLANET
+http://103.176.252.6:8000/play/a006/index.m3u8
+#EXTINF:-1,ANIMAX
+http://103.176.252.6:8000/play/a008/index.m3u8
+#EXTINF:-1,ANIPLUS
+http://103.176.252.6:8000/play/a012/index.m3u8
+#EXTINF:-1,AXN
+http://103.176.252.6:8000/play/a00h/index.m3u8
+#EXTINF:-1,BBC EARTH
+http://103.176.252.6:8000/play/a001/index.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://103.176.252.6:8000/play/a004/index.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://103.176.252.6:8000/play/a00g/index.m3u8
+#EXTINF:-1,CINEMAX
+http://103.176.252.6:8000/play/a00j/index.m3u8
+#EXTINF:-1,DISCOVERY
+http://103.176.252.6:8000/play/a007/index.m3u8
+#EXTINF:-1,FIGHT SPORT
+http://103.176.252.6:8000/play/a014/index.m3u8
+#EXTINF:-1,HISTORY
+http://103.176.252.6:8000/play/a00a/index.m3u8
+#EXTINF:-1,KIX
+http://103.176.252.6:8000/play/a002/index.m3u8
+#EXTINF:-1,KPLUS
+http://103.176.252.6:8000/play/a013/index.m3u8
+#EXTINF:-1,NAT GEO
+http://103.176.252.6:8000/play/a00e/index.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://103.176.252.6:8000/play/a009/index.m3u8
+#EXTINF:-1,NBA TV
+http://103.176.252.6:8000/play/a00l/index.m3u8
+#EXTINF:-1,NICK JR
+http://103.176.252.6:8000/play/a00f/index.m3u8
+#EXTINF:-1,NICKLEODEON
+http://103.176.252.6:8000/play/a00c/index.m3u8
+#EXTINF:-1,SONY ONE
+http://103.176.252.6:8000/play/a00i/index.m3u8
+#EXTINF:-1,SPOTV1
+http://103.176.252.6:8000/play/a003/index.m3u8
+#EXTINF:-1,THRILL
+http://103.176.252.6:8000/play/a00d/index.m3u8
+#EXTINF:-1,TLC
+http://103.176.252.6:8000/play/a016/index.m3u8
+#EXTINF:-1,TVN MOVIES
+http://103.176.252.6:8000/play/a00k/index.m3u8
+#EXTINF:-1,UFC TV
+http://103.176.252.6:8000/play/a00b/index.m3u8
+#EXTINF:-1,WARNER TV
+http://103.176.252.6:8000/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 5
-http://103.166.27.2:8112/play/b005
+#EXTM3U
+#EXTINF:-1,Motoracing
+http://203.130.194.250:8000/play/1
+#EXTINF:-1,Horizon Sport
+http://203.130.194.250:8000/play/2
+#EXTINF:-1,TDC
+http://203.130.194.250:8000/play/a008
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 6
-http://103.166.27.2:8112/play/b006
+#EXTM3U
+#EXTINF:-1,Zee India
+http://103.120.172.74:1040
+#EXTINF:-1,Star India
+http://103.120.172.74:1060
+#EXTINF:-1,Colors
+http://103.120.172.74:1070
+#EXTINF:-1,Sony SAB
+http://103.120.172.74:1080
+#EXTINF:-1,India news
+http://103.120.172.74:1090
+#EXTINF:-1,StarPlus
+http://103.120.172.74:1120
+#EXTINF:-1,Zee TV
+http://103.120.172.74:1140
+#EXTINF:-1,Sony Max
+http://103.120.172.74:1150
+#EXTINF:-1,DD news
+http://103.120.172.74:1170
+#EXTINF:-1,Zee TV
+http://103.120.172.74:4000
+#EXTINF:-1,Star sports1
+http://103.120.172.74:4100
+#EXTINF:-1,Star sports2
+http://103.120.172.74:4200
+#EXTINF:-1,StarPlus
+http://103.120.172.74:4300
+#EXTINF:-1,MTV
+http://103.120.172.74:4400
+#EXTINF:-1,Star sports1
+http://103.120.172.74:4600
+#EXTINF:-1,Star sports2
+http://103.120.172.74:4700
+#EXTINF:-1,Star sports2
+http://103.120.172.74:4800
+#EXTINF:-1,Star Gold
+http://103.120.172.74:5000
+#EXTINF:-1,Sony HD
+http://103.120.172.74:5100
+#EXTINF:-1,Star India
+http://103.120.172.74:5200
+#EXTINF:-1,Sony Sport5
+http://103.120.172.74:5300
+#EXTINF:-1,Sony Sport1
+http://103.120.172.74:5400
+#EXTINF:-1,NDTV
+http://103.120.172.74:5500
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 7
-http://103.166.27.2:8112/play/b007
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 8
-http://103.166.27.2:8112/play/b008
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 9
-http://103.166.27.2:8112/play/b009
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 10
-http://103.166.27.2:8112/play/b010
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 11
-http://103.166.27.2:8112/play/b011
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 12
-http://103.166.27.2:8112/play/b012
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 13
-http://103.166.27.2:8112/play/b013
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 14
-http://103.166.27.2:8112/play/b014
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 15
-http://103.166.27.2:8112/play/b015
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 16
-http://103.166.27.2:8112/play/b016
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 17
-http://103.166.27.2:8112/play/b017
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 18
-http://103.166.27.2:8112/play/b018
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 19
-http://103.166.27.2:8112/play/b019
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 20
-http://103.166.27.2:8112/play/b020
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 21
-http://103.166.27.2:8112/play/b021
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 22
-http://103.166.27.2:8112/play/b022
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 23
-http://103.166.27.2:8112/play/b023
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 24
-http://103.166.27.2:8112/play/b024
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 25
-http://103.166.27.2:8112/play/b025
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 26
-http://103.166.27.2:8112/play/b026
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 27
-http://103.166.27.2:8112/play/b027
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 28
-http://103.166.27.2:8112/play/b028
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 29
-http://103.166.27.2:8112/play/b029
-
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", 30
-http://103.166.27.2:8112/play/b030
+#EXTM3U
+#EXTINF:-1,Rajawali TV
+http://202.150.172.59:80/RajawaliTV/index.m3u8
+#EXTINF:-1,ANTV
+http://202.150.172.59:80/AnTV/index.m3u8
+#EXTINF:-1,TV One
+http://202.150.172.59:80/TvOne/index.m3u8
+#EXTINF:-1,Indosiar
+http://202.150.172.59:80/Indosiar/index.m3u8
+#EXTINF:-1,CNN
+http://202.150.172.59:80/CNN_Indonesia/index.m3u8
+#EXTINF:-1,SCTV
+http://202.150.172.59:80/SCTV/index.m3u8
+#EXTINF:-1,Metro
+http://202.150.172.59:80/MetroTV/index.m3u8
+#EXTINF:-1,Trans 7
+http://202.150.172.59:80/Trans7/index.m3u8
+#EXTINF:-1,Arirang
+http://202.150.172.59:80/Arirang/index.m3u8
+#EXTINF:-1,KBS World 24
+http://202.150.172.59:80/KBSWorld24/index.m3u8
+#EXTINF:-1,Trans TV
+http://202.150.172.59:80/TransTV/index.m3u8
+#EXTINF:-1,CNBC INDONESIA HD
+http://202.150.172.59:80/CNBC_Indonesia/index.m3u8
+#EXTINF:-1,TRANS TV HD
+http://202.150.172.59:80/fightboxHD2/index.m3u8
+#EXTINF:-1,BNTV
+http://202.150.172.59:80/BNTV/index.m3u8
+#EXTINF:-1,EURONEWS-ASIA
+http://202.150.172.59:80/EuroNews/index.m3u8
+#EXTINF:-1,KTV
+http://202.150.172.59:80/KTV/index.m3u8
+#EXTINF:-1,MTA TV
+http://202.150.172.59:80/MTATV/index.m3u8
+#EXTINF:-1,TRANS TV HD
+http://202.150.172.59:80/fightboxHD/index.m3u8
+#EXTINF:-1,NHK World Japan HD
+http://202.150.172.59:80/NHKWorld/index.m3u8
+#EXTINF:-1,TRANS TV HD
+http://202.150.172.59:80/MagnaChannel/index.m3u8
