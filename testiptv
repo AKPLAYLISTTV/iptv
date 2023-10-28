@@ -1,18 +1,14 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gW4ndkL/MOJI-TV.png" group-title="INDONESIA", SCTV
-https://iptvme.xyz/vid/hls.m3u8?id=204
+#EXTINF:-1 group-title="TV Indonesia" tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png", Indosiar
+http://103.166.27.2:8112/play/a016
+http://edge.linknetott.swiftserve.com/channelgroup3/cg326production/ch396/03.m3u8
+http://103.150.197.226:25461/kalingga/VLRBY9PXuR/197
+http://103.150.197.226:25461/kalingga/VLRBY9PXuR/223
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gW4ndkL/MOJI-TV.png" group-title="INDONESIA", INDOSIAR
-https://iptvme.xyz/vid/hls.m3u8?id=205
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gW4ndkL/MOJI-TV.png" group-title="INDONESIA", MOJI TV
-https://iptvme.xyz/vid/hls.m3u8?id=206
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gW4ndkL/MOJI-TV.png" group-title="INDONESIA", TRANS TV
-https://iptvme.xyz/vid/hls.m3u8?id=733
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gW4ndkL/MOJI-TV.png" group-title="INDONESIA", MOJI TV
-https://iptvme.xyz/vid/hls.m3u8?id=734
-
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/q5mv0t380x30uli/PngItem_528991-picsay.png" group-title="TV Indonesia", SCTV
+http://103.166.27.2:8112/play/a015
+http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/03.m3u8
+http://103.150.197.226:25461/kalingga/VLRBY9PXuR/198
+http://103.150.197.226:25461/kalingga/VLRBY9PXuR/224
 
