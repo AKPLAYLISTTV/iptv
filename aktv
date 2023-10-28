@@ -45,12 +45,10 @@ http://103.166.27.2:8112/play/a015
 https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/WkCfXF7/TRANS-7.png",TRANS 7
-https://bromo.kdb.co.id/Trans7/index.m3u8
+http://103.166.27.2:8112/play/a01c
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/jWnC756/TRANS-TV.png",TRANS TV
-https://mangga-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+http://103.166.27.2:8112/play/a01b
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
