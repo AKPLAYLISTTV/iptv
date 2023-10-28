@@ -11,25 +11,25 @@
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="INDONESIA",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png" group-title="INDONESIA",RCTI
 https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/B2fCbY1/channel-81-modified.png" group-title="INDONESIA",GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/phKDkd9/GTV.png" group-title="INDONESIA",GTV
 https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="" tvg-logo="https://i.ibb.co/YW131Xz/images-modified.png" group-title="INDONESIA",MNC TV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="" tvg-logo="https://i.ibb.co/kh2CnjZ/MNCTV.png" group-title="INDONESIA",MNC TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="INDONESIA" tvg-id="iNews.id" tvg-url="" tvg-logo="https://i.ibb.co/Z8zTYMd/62550521-2221755784545427-6717567406312521728-n-modified.png",iNews
+#EXTINF:-1 group-title="INDONESIA" tvg-id="iNews.id" tvg-url="" tvg-logo="https://i.ibb.co/8MpMyT5/INEWS-TV.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="indosiar.id" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png", INDOSIAR
