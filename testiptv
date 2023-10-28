@@ -1,3 +1,31 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
+
+#EXTM3U
+#EXTINF:-1,ANTV HD
+http://103.166.27.2:8112/play/a01g
+#EXTINF:-1,Aswaja TV
+http://103.166.27.2:8112/play/a020
+#EXTINF:-1,CNBC INDONESIA HD
+http://103.166.27.2:8112/play/a01e
+#EXTINF:-1,CNN INDONESIA HD
+http://103.166.27.2:8112/play/a01d
+#EXTINF:-1,Dangdut Tivi
+http://103.166.27.2:8112/play/a01x
+#EXTINF:-1,Hadi TV
+http://103.166.27.2:8112/play/a01v
+#EXTINF:-1,INDOSIAR HD
+http://103.166.27.2:8112/play/a016
+#EXTINF:-1,JTV
+http://103.166.27.2:8112/play/a01s
+#EXTINF:-1,KOMPASTV HD
+http://103.166.27.2:8112/play/a019
+#EXTINF:-1,LAGU TV
+http://103.166.27.2:8112/play/a01u
+#EXTINF:-1,MENTARI HD
+http://103.166.27.2:8112/play/a018
+#EXTINF:-1,MOJI HD
+http://103.166.27.2:8112/play/a017
+#EXTINF:-1,Madu TV Nusantara
 http://103.166.27.2:8112/play/a01y
 #EXTINF:-1,RCTI HD
 http://103.166.27.2:8112/play/a022
