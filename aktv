@@ -31,11 +31,10 @@ http://103.166.27.2:8112/play/a016
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/GM8w0n8/SCTV.png",SCTV
 http://103.166.27.2:8112/play/a015
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nPhJPmD/NET-TV.png" group-title="INDONESIA", NET TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/nPhJPmD/NET-TV.png" group-title="INDONESIA",NET TV
-https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/PzTvs7Z/TRANS-7.png",TRANS 7
 http://103.166.27.2:8112/play/a01c
@@ -102,6 +101,9 @@ http://63b2dc7196c38.streamlock.net:1935/ch18/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/2sHtDz0/JAKTV.png" group-title="LOKAL",JAK TV
 https://nyanv-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/2/21/KTV_28UHF.png/400px-KTV_28UHF.png" group-title="TV DAERAH",KTV
+http://202.150.172.59:80/KTV/tracks-v1a1/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -119,6 +121,9 @@ http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://i.ibb.co/7XLzcNL/UGTV.png", UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
+#EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.ibb.co/CsTySzc/sangaji-tv.png",SANGAJI TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -290,19 +295,34 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/st
 ===========================================================================================================================================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES", HBO
-https://nonton.site:8443/ekos/7483/26595
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVncnzk/HBO-FAMILY.png" group-title="MOVIES", HBO family
-https://nonton.site:8443/ekos/7483/26598
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVncnzk/HBO-FAMILY.png" group-title="MOVIES", HBO FAMILY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GxcWqVn/HBO-HITS.png" group-title="MOVIES", HBO Hits
-https://nonton.site:8443/ekos/7483/26596
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GxcWqVn/HBO-HITS.png" group-title="MOVIES", HBO HITS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jfNk4db/HBO-SIGNATURE.png" group-title="MOVIES", HBO Signature
-https://nonton.site:8443/ekos/7483/26597
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jfNk4db/HBO-SIGNATURE.png" group-title="MOVIES", HBO SIGNATURE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ft9dqjM/CINEMAX.png" group-title="MOVIES", CINEMAX
-https://nonton.site:8443/ekos/7483/2156
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R48FS17/Warner-TV-Poland-Logo.png" group-title="MOVIES", WARNER TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
@@ -348,6 +368,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u
 
 #EXTINF:-1 tvg-url="" tvg-id="CitraDrama.id" tvg-name="" tvg-logo="https://i.ibb.co/tMhVQFv/CITRA-DRAMA.png" group-title="MOVIES",Citra Drama
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w6fw0YJ/BIOSKOP-INDONESIA.png" group-title="MOVIES", BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -662,6 +687,9 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS",Mentari TV
 http://103.166.27.2:8112/play/a018
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="KIDS",VTV
+https://delivery.ksa.my.id/stream/vtv/playlist.m3u8?token=ym1wtrp
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/4jt8Cdy/CARTOON-NETWORK.png" group-title="KIDS",CARTOON NETWORK
 http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
@@ -1169,6 +1197,9 @@ https://bit.ly/3MZ583U
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/ZcYj6Tw/musictv-home-tv.png",MUSIC TV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1,LAGU TV
+http://103.166.27.2:8112/play/a02o/index.m3u8
 
 #EXTINF:-1 group-title="MUSIC",Nagaswara Pop
 https://nagaswara-pop.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
