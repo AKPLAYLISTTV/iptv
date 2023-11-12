@@ -1,50 +1,49 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 
-
 #EXTINF:-1 xui-id="1964" tvg-id="RCTI.MACAN" tvg-name="RCTI FHD" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png" group-title="INDONESIA",RCTI
-http://103.30.87.238:443/wadmanet/norlec212/516
+http://103.30.87.238:443/live/wadmanet/norlec212/516.m3u8
 
 #EXTINF:-1 xui-id="1318" tvg-id="GTV.MACAN" tvg-name="GTV FHD" tvg-logo="https://i.ibb.co/phKDkd9/GTV.png" group-title="INDONESIA",GTV
-http://103.30.87.238:443/wadmanet/norlec212/5628
+http://103.30.87.238:443/live/wadmanet/norlec212/5628.m3u8
 
 #EXTINF:-1 xui-id="1317" tvg-id="MNCTV.MACAN" tvg-name="MNCTV FHD" tvg-logo="https://i.ibb.co/kh2CnjZ/MNCTV.png" group-title="INDONESIA",MNCTV
-http://103.30.87.238:443/wadmanet/norlec212/858
+http://103.30.87.238:443/live/wadmanet/norlec212/858.m3u8
 
 #EXTINF:-1 xui-id="1336" tvg-id="iNewsTV.MACAN" tvg-name="INEWS FHD" tvg-logo="https://i.ibb.co/pxZpRhV/INEWS-TV.png" group-title="INDONESIA",INEWS
-http://103.30.87.238:443/wadmanet/norlec212/1419
+http://103.30.87.238:443/live/wadmanet/norlec212/1419.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="indosiar.id" tvg-logo="https://i.ibb.co/XxV8xpw/INDOSIAR.png", INDOSIAR
-http://103.30.87.238:443/wadmanet/norlec212/907
+http://103.30.87.238:443/live/wadmanet/norlec212/907.m3u8
 
 #EXTINF:-1 xui-id="1324" tvg-id="SCTV.MACAN" tvg-name="SCTV FHD" tvg-logo="https://i.ibb.co/GM8w0n8/SCTV.png" group-title="INDONESIA",SCTV
-http://103.30.87.238:443/wadmanet/norlec212/890
+http://103.30.87.238:443/live/wadmanet/norlec212/890.m3u8
 
 #EXTINF:-1 xui-id="1321" tvg-id="NET1" tvg-name="NET FHD" tvg-logo="https://i.ibb.co/nPhJPmD/NET-TV.png" group-title="INDONESIA",NET
-http://103.30.87.238:443/wadmanet/norlec212/889
+http://103.30.87.238:443/live/wadmanet/norlec212/889.m3u8
 
 #EXTINF:-1 xui-id="1315" tvg-id="Trans7.MACAN" tvg-name="TRANS 7 FHD" tvg-logo="https://i.ibb.co/PzTvs7Z/TRANS-7.png" group-title="INDONESIA",TRANS 7
-http://103.30.87.238:443/wadmanet/norlec212/5622
+http://103.30.87.238:443/live/wadmanet/norlec212/5622.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/nDDHQHB/TRANS-TV.png",TRANS TV
-http://103.30.87.238:443/wadmanet/norlec212/5621
+http://103.30.87.238:443/live/wadmanet/norlec212/5621.m3u8
 
 #EXTINF:-1 xui-id="1332" tvg-id="KompasTv.MACAN" tvg-name="KOMPASTV FHD" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png" group-title="INDONESIA",KOMPAS TV
-http://103.30.87.238:443/wadmanet/norlec212/809
+http://103.30.87.238:443/live/wadmanet/norlec212/809.m3u8
 
 #EXTINF:-1 xui-id="1345" tvg-id="TVONE" tvg-name="TV ONE" tvg-logo="https://i.ibb.co/H2dxzPn/TV-ONE.png" group-title="INDONESIA",TV ONE
-http://103.30.87.238:443/wadmanet/norlec212/5454
+http://103.30.87.238:443/live/wadmanet/norlec212/5454.m3u8
 
 #EXTINF:-1 xui-id="1330" tvg-id="MetroTV.MACAN" tvg-name="METROTV FHD" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png" group-title="INDONESIA",METRO TV
-http://103.30.87.238:443/wadmanet/norlec212/5410
+http://103.30.87.238:443/live/wadmanet/norlec212/5410.m3u8
 
 #EXTINF:-1 xui-id="27383" tvg-id="ANTV.MACAN" tvg-name="ANTV FHD" tvg-logo="https://i.ibb.co/QM6VXd5/ANTV.png" group-title="INDONESIA",ANTV
-http://103.30.87.238:443/wadmanet/norlec212/891
+http://103.30.87.238:443/live/wadmanet/norlec212/891.m3u8
 
 #EXTINF:-1 xui-id="1340" tvg-id="RTV1" tvg-name="RTV" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png" group-title="INDONESIA",RTV
-http://103.30.87.238:443/wadmanet/norlec212/1193
+http://103.30.87.238:443/live/wadmanet/norlec212/1193.m3u8
 
 #EXTINF:-1 xui-id="25163" tvg-id="NetTV.MACAN" tvg-name="Moji Tv" tvg-logo="https://i.ibb.co/92Y2YWC/MOJI.png" group-title="INDONESIA",MOJI TV
-http://103.30.87.238:443/wadmanet/norlec212/4928
+http://103.30.87.238:443/live/wadmanet/norlec212/4928.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/2ndSQzj/NUSANTARA-TV.png", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
@@ -272,26 +271,26 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/st
 ===========================================================================================================================================================
 
 
-#EXTINF:-1 xui-id="1363" tvg-id="zeecinema" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
-http://103.30.87.238:443/wadmanet/norlec212/5711
+#EXTINF:-1 tvg-id="" tvg-name="HBO FHD" tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
+http://103.30.87.238:443/live/wadmanet/norlec212/5711.m3u8
 
-#EXTINF:-1 xui-id="1370" tvg-id="premier" tvg-name="HBO Family HD" tvg-logo="https://i.ibb.co/ZVncnzk/HBO-FAMILY.png" group-title="MOVIES",HBO Family
-http://103.30.87.238:443/wadmanet/norlec212/5712
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family HD" tvg-logo="https://i.ibb.co/ZVncnzk/HBO-FAMILY.png" group-title="MOVIES",HBO Family
+http://103.30.87.238:443/live/wadmanet/norlec212/5712.m3u8
 
-#EXTINF:-1 xui-id="1367" tvg-id="HBO Hits" tvg-name="HBO Hits FHD" tvg-logo="https://i.ibb.co/GxcWqVn/HBO-HITS.png" group-title="MOVIES",HBO Hits
-http://103.30.87.238:443/wadmanet/norlec212/5707
+#EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBO Hits FHD" tvg-logo="https://i.ibb.co/GxcWqVn/HBO-HITS.png" group-title="MOVIES",HBO Hits
+http://103.30.87.238:443/live/wadmanet/norlec212/5707.m3u8
 
-#EXTINF:-1 xui-id="1365" tvg-id="premier" tvg-name="HBO Signature FHD" tvg-logo="https://i.ibb.co/jfNk4db/HBO-SIGNATURE.png" group-title="MOVIES",HBO Signature
-http://103.30.87.238:443/wadmanet/norlec212/5713
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature FHD" tvg-logo="https://i.ibb.co/jfNk4db/HBO-SIGNATURE.png" group-title="MOVIES",HBO Signature
+http://103.30.87.238:443/live/wadmanet/norlec212/5713.m3u8
 
-#EXTINF:-1 xui-id="1371" tvg-id="CINEMAX HD" tvg-name="Cinemax by HBO FHD" tvg-logo="https://i.ibb.co/ft9dqjM/CINEMAX.png" group-title="MOVIES",CINEMAX
-http://103.30.87.238:443/wadmanet/norlec212/5717
+#EXTINF:-1 tvg-id="CINEMAX HD" tvg-name="Cinemax by HBO FHD" tvg-logo="https://i.ibb.co/ft9dqjM/CINEMAX.png" group-title="MOVIES",CINEMAX
+http://103.30.87.238:443/live/wadmanet/norlec212/5717.m3u8
 
-#EXTINF:-1 xui-id="1388" tvg-id="WarnerTV.MACAN" tvg-name="Warner TV FHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="MOVIES",WARNER TV
-http://103.30.87.238:443/wadmanet/norlec212/1206
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="Warner TV FHD" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="MOVIES",WARNER TV
+http://103.30.87.238:443/live/wadmanet/norlec212/1206.m3u8
 
-#EXTINF:-1 xui-id="313" tvg-id="AXNHD.MACAN" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/30Cn25n/AXN.png" group-title="MOVIES",AXN
-http://103.30.87.238:443/wadmanet/norlec212/1278
+#EXTINF:-1 tvg-id="AXNHD.MACAN" tvg-name="AXN FHD" tvg-logo="https://i.ibb.co/30Cn25n/AXN.png" group-title="MOVIES",AXN
+http://103.30.87.238:443/live/wadmanet/norlec212/1278.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
