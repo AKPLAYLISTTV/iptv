@@ -24,56 +24,55 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="INDONESIA" tvg-id="iNews.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/pxZpRhV/INEWS-TV.png",iNews
+#EXTINF:-1 group-title="INDONESIA" tvg-id="iNews HD - [Channel 433].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/pxZpRhV/INEWS-TV.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="indosiar.id" tvg-logo="https://i.ibb.co/XxV8xpw/INDOSIAR.png", INDOSIAR
+#EXTINF:-1 group-title="INDONESIA" tvg-id="indosiar.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/XxV8xpw/INDOSIAR.png", INDOSIAR
 http://103.166.27.2:8112/play/a016
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/GM8w0n8/SCTV.png",SCTV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="SCTV - [Channel 89].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/GM8w0n8/SCTV.png",SCTV
 http://103.166.27.2:8112/play/a015
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/nPhJPmD/NET-TV.png", NET TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="NET TV - [Channel 116].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/nPhJPmD/NET-TV.png", NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/PzTvs7Z/TRANS-7.png",TRANS 7
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Trans 7 - [Channel 110].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/PzTvs7Z/TRANS-7.png",TRANS 7
 http://103.166.27.2:8112/play/a01c
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/nDDHQHB/TRANS-TV.png",TRANS TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Trans TV - [Channel 87].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/nDDHQHB/TRANS-TV.png",TRANS TV
 http://103.166.27.2:8112/play/a01b
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png", KOMPAS TV
-https://cdn09jtedge.indihometv.com/dvr/139/kompastv/manifest.mpd
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png" group-title="INDONESIA",KOMPAS TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
+https://cdn08jtedge.indihometv.com/dassdvr/133/kompastv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="" tvg-logo="https://i.ibb.co/H2dxzPn/TV-ONE.png" group-title="INDONESIA",TV ONE
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/H2dxzPn/TV-ONE.png" group-title="INDONESIA",TV ONE
 https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png" group-title="INDONESIA", METRO TV
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/index.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Metro TV - [Channel 107].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png", METRO TV
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.ibb.co/QM6VXd5/ANTV.png" group-title="INDONESIA",ANTV
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/QM6VXd5/ANTV.png" group-title="INDONESIA",ANTV
 https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-url="" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png" group-title="INDONESIA",RTV
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png" group-title="INDONESIA",RTV
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/92Y2YWC/MOJI.png" group-title="INDONESIA", MOJI TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MOJI" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/92Y2YWC/MOJI.png", MOJI TV
 http://103.166.27.2:8112/play/a017
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/2ndSQzj/NUSANTARA-TV.png", Nusantara TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Nusantara TV" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co/2ndSQzj/NUSANTARA-TV.png", Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/Pxjtgm8/MAGNA.png", Magna Channel
@@ -82,7 +81,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/ZhXq0T9/TVRI.png", TVRI
+#EXTINF:-1 tvg-id="tvri" https://bit.ly/JejeVisionEPG tvg-name="" group-title="INDONESIA" tvg-logo="https://i.ibb.co/ZhXq0T9/TVRI.png", TVRI
 https://cdn09jtedge.indihometv.com/dvr/139/tvri/manifest.mpd
 
 #EXTINF:-1 tvg-url="" tvg-logo="https://i.ibb.co/XzgM3NS/INDONESIANA-TV.png" group-title="INDONESIA",Indonesiana TV
@@ -322,61 +321,6 @@ http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/221948
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.ceriatv.workers.dev/
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://cdn08jtedge.indihometv.com/dassdvr/133/indosiar/manifest.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://streaming.indihometv.com/joss/133/myfamily1080/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://streaming.indihometv.com/dass/133/flik_dash/manifest_wuseetv.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://cdn08jtedge.indihometv.com/dassdvr/133/kompastv/manifest.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://streaming.indihometv.com/dass/134/zbioskop_dash/manifest_wuseetv.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://streaming.indihometv.com/dass/133/hitsmovie_dash/manifest_wuseetv.mpd
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://thumbor.prod.vidiocdn.com/0plBZ7Gso7gNBJxid9ksA8HMGxc=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/205/54ab19.png" group-title="FTA NASIONAL",INDOSIAR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-https://cdn08jtedge.indihometv.com/dassdvr/133/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-url=""tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="MOVIES",WARNER TV
 https://s.id/1W5kq
