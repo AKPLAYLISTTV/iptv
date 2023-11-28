@@ -287,28 +287,20 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/st
 
 ===========================================================================================================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png", HBO
+http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/197972
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/GxcWqVn/HBO-HITS.png" group-title="MOVIES",HBO Hits
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/GxcWqVn/HBO-HITS.png", HBO Hits
+http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/196480
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/ZVncnzk/HBO-FAMILY.png" group-title="MOVIES",HBO Family
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/ZVncnzk/HBO-FAMILY.png", HBO Family
+http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/197055
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/jfNk4db/HBO-SIGNATURE.png" group-title="MOVIES",HBO Signature
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+#EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/jfNk4db/HBO-SIGNATURE.png", HBO Signature
+http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/221948
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/ft9dqjM/CINEMAX.png" group-title="MOVIES",CINEMAX
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
+http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/197964
 
 #EXTINF:-1 tvg-url=""tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="MOVIES",WARNER TV
 https://s.id/1W5kq
@@ -350,7 +342,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="flik.id" tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png",FLIK
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/72
+http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/165095
 
 #EXTINF:-1 tvg-id="" tvg-name="MAXSTREAM" tvg-logo="" group-title="MOVIES",MAXSTREAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1434,16 +1426,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
 ===========================================================================================================================================================
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.postimg.cc/bv2xKqkt/HBO.png", HBO
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197972
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/197972
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.postimg.cc/4y1bBwt2/HBO-Family.png", HBO Family
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/197055
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/197055
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.postimg.cc/85MbrTCS/HBO-Hits.png", HBO Hits
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/196480
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/196480
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.postimg.cc/FH6bWYdv/HBO-Signature.png", HBO Signature
-http://aflaxtv.xyz:8080/Vladisergeevic/7eef2c4388/221948
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/221948
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
@@ -1478,6 +1470,9 @@ https://raw.githubusercontent.com/kusnadipepenk/ntn/master/flx.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.useetv.com/logo_warner_small.png" group-title="CHANNEL PREMIUM",Warner TV
 http://208.115.225.174:14132
+
+#EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/7RkycsQ/SHOW2.png" group-title="CHANNEL PREMIUM",SHOWCASE MOVIES
+http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/17041
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CHANNEL PREMIUM",ZEE TV
 http://198.16.100.90:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&tsum=7fea673ee3cb17eeb5c4f9aa6eeec8af
@@ -1585,3 +1580,4 @@ https://horror-tv-local-now.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="",Rakuten TV Thriller
 https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
+
