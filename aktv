@@ -43,7 +43,8 @@ https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Trans TV - [Channel 87].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/nDDHQHB/TRANS-TV.png",TRANS TV
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png" group-title="INDONESIA",KOMPAS TV
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png", KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/H2dxzPn/TV-ONE.png" group-title="INDONESIA",TV ONE
@@ -301,9 +302,6 @@ http://iptvtree.net:8080/F26646/f950f250/221948
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/ft9dqjM/CINEMAX.png" group-title="MOVIES",CINEMAX
 http://iptvtree.net:8080/F26646/f950f250/197964
 
-#EXTINF:-1 tvg-url=""tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="MOVIES",WARNER TV
-https://s.id/1W5kq
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 #EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" group-title="MOVIES" tvg-logo="https://i.ibb.co/30Cn25n/AXN.png",AXN
@@ -355,7 +353,7 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w6fw0YJ/BIOSKOP-INDONESIA.png" group-title="MOVIES",BIOSKOP INDONESIA
-https://mantul.biz.id:443/ekos/748382/243
+http://iptvtree.net:8080/F26646/f950f250/264801
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -682,7 +680,7 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch375%29/index
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="KIDS",Mentari TV
-http://103.166.27.2:8112/play/a018
+http://iptvtree.net:8080/F26646/f950f250/298546
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
