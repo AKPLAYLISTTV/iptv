@@ -41,7 +41,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 https://mangga-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Trans TV - [Channel 87].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/nDDHQHB/TRANS-TV.png",TRANS TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png" group-title="INDONESIA",KOMPAS TV
 http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
@@ -61,7 +61,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png" group-title="INDONESIA",RTV
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 group-title="NDONESIA" tvg-logo="https://i.ibb.co/92Y2YWC/MOJI.png", MOJI
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://i.ibb.co/92Y2YWC/MOJI.png", MOJI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 
@@ -287,19 +287,19 @@ http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/st
 ===========================================================================================================================================================
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png", HBO
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/197972
+http://iptvtree.net:8080/F26646/f950f250/197972
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Hits HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/GxcWqVn/HBO-HITS.png", HBO Hits
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/196480
+http://iptvtree.net:8080/F26646/f950f250/196480
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/ZVncnzk/HBO-FAMILY.png", HBO Family
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/197055
+http://iptvtree.net:8080/F26646/f950f250/197055
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="HBO Signature HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/jfNk4db/HBO-SIGNATURE.png", HBO Signature
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/221948
+http://iptvtree.net:8080/F26646/f950f250/221948
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/ft9dqjM/CINEMAX.png" group-title="MOVIES",CINEMAX
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/197964
+http://iptvtree.net:8080/F26646/f950f250/197964
 
 #EXTINF:-1 tvg-url=""tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="MOVIES",WARNER TV
 https://s.id/1W5kq
@@ -341,7 +341,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemach
 https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 group-title="MOVIES" tvg-id="flik.id" tvg-logo="https://i.ibb.co/KLjXQqF/FLIX.png",FLIK
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/165095
+http://iptvtree.net:8080/F26646/f950f250/165095
 
 #EXTINF:-1 tvg-id="" tvg-name="MAXSTREAM" tvg-logo="" group-title="MOVIES",MAXSTREAM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1339,10 +1339,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/Ky30shw/INDOSIAR.png", INDOSIAR
-http://103.166.27.2:8112/play/a016
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" group-title="AK PLAYLIST" tvg-logo="https://i.ibb.co/CP2Ft6N/SCTV.png",SCTV
-http://103.166.27.2:8112/play/a015
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/WkCfXF7/TRANS-7.png" group-title="AK PLAYLIST",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1378,26 +1378,27 @@ https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/Dg32pFw/RTV.png" group-title="AK PLAYLIST",RTV
 https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png" group-title="INDONESIA",KOMPAS TV
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png" group-title="AK PLAYLIST",KOMPAS TV
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/DwVFp7L/METRO-TV.png" group-title="AK PLAYLIST",METRO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
 https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
+
 ===========================================================================================================================================================
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.postimg.cc/bv2xKqkt/HBO.png", HBO
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/197972
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.postimg.cc/4y1bBwt2/HBO-Family.png", HBO Family
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/197055
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbofamily.m3u8
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.postimg.cc/85MbrTCS/HBO-Hits.png", HBO Hits
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/196480
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbohits.m3u8
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.postimg.cc/FH6bWYdv/HBO-Signature.png", HBO Signature
-http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/221948
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbosig.m3u8
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.imgur.com/Dpu3pd2.png",Star Movies Select
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/mnow.m3u8
