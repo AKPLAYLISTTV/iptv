@@ -2,7 +2,39 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" refresh="3600"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" refresh="3600"
 
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683098&extension=m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683097&extension=m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683096&extension=m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683095&extension=m3u8
+
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683094&extension=m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683093&extension=m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683092&extension=m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683091&extension=m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683090&extension=m3u8
 
 
 
