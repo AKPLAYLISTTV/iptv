@@ -3,6 +3,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" refresh="3600"
 
 #EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" refresh="3600"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" refresh="3600"
+
+#EXTM3U
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -348,14 +352,20 @@ http://iptvtree.net:8080/F26646/f950f250/165095
 #KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="MOVIES", DUNIA SINEMA
-https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
-
 #EXTINF: -1 tvg-url="" tvg-logo="https://i.ibb.co/2Z4RZsD/CITRA-BIOSKOP.png" group-title="MOVIES",Citra Bioskop
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w6fw0YJ/BIOSKOP-INDONESIA.png" group-title="MOVIES",BIOSKOP INDONESIA
 http://iptvtree.net:8080/F26646/f950f250/264801
+
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Sinema" tvg-logo="https://i.postimg.cc/mDCCS0Rh/20230520-093534.jpg" group-title="MOVIES", DUNIA SINEMA
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sooka_Drama_Hebat.png/640px-Sooka_Drama_Hebat.png"group-title="MOVIES",Drama Hebat
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessio
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Sooka_Filem_Mantap.png"group-title="MOVIES",Filem Mantap
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessio
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -521,6 +531,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/N7LpgDN/channel-428-modified.png" group-title="SPORTS",SPOTV 2
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://logo.iptveditor.com/beinsports.png"group-title="SPORTS",beIN Sports
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683139&extension=ts&play_token=GVZS088tcf
+
+#EXTINF:-1,group-title="SPORTS" tvg-logo="https://logo.iptveditor.com/beinsports1.png", beIN Sports 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+
+#EXTINF:-1,group-title="SPORTS" tvg-logo="https://logo.iptveditor.com/aubeinsports2.png", beIN Sports 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS",SPORTV 1
 http://assista.pro:80/0333686557/Vilamariante1/125386
 
@@ -550,11 +569,6 @@ http://shareext@195.26.87.217/live?channelId=269&deviceMac=00:1A:79:33:E9:41|id=
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/5y5vyQ4R/Shareext-Sports.jpg", TNT SPORT 4
 http://shareext@195.26.87.217/live?channelId=270&deviceMac=00:1A:79:33:E9:41|id=btsport4|shareext.m3u8
-
-#EXTINF:-1,group-title="SPORTS" tvg-logo="", beIN Sports 1
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/165105
-#EXTINF:-1,group-title="SPORTS" tvg-logo="", beIN Sports 3
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/298506
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",Bein Sports Xtra
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c102livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -1282,36 +1296,6 @@ http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/171953
 #EXTINF:-1 group-title="MALAYSIA" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
 http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/171968
 
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", GO SHOP
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/264511
-
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", Harvest TV
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/299917
-
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", Local Now Family Flix
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/296889
-
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", NTV 7
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/174695
-
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", RTB Sukmaindera
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/299546
-
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", RTM TV 1
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/158357
-
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", RTM TV 2
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/158355
-
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", TV Alhijrah
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/157491
-
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", Astro Vaanavil
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/201163
-
-#EXTINF:-1,group-title="MALAYSIA" tvg-logo="", Astro Xiao Tai Yang
-http://iptvstream.xyz:8080/Houngst20001/J6mEW1Q39jRCwRYMcxwdv/201164
-
 ==================================================================================================================================================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1347,12 +1331,12 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/WkCfXF7/TRANS-7.png" group-title="AK PLAYLIST",TRANS 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/jWnC756/TRANS-TV.png" group-title="AK PLAYLIST",TRANS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=696e646f736961723030303030303030:b19780cbdb0b42d86d3415327590b679
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
@@ -1388,6 +1372,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/metrotv/manifest.mpd
 
 ===========================================================================================================================================================
 
+===========================================================================================================================================================
+
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="https://i.postimg.cc/bv2xKqkt/HBO.png", HBO
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/hbo.m3u8
 
@@ -1411,6 +1397,9 @@ http://208.115.225.174:14132
 
 #EXTINF:-1 tvg-id="ShowCaseMovies" tvg-name="SHOWCASE MOVIES" tvg-logo="https://i.ibb.co/7RkycsQ/SHOW2.png" group-title="CHANNEL PREMIUM",SHOWCASE MOVIES
 http://iptvstream.xyz:8080/Miglior/f36FoHhJ0y7qYUQ2ZD/17041
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/V6Y266hL/image.png"group-title="CHANNEL PREMIUM",Just For Laughs
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d32888e31a0300073d9f08/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CHANNEL PREMIUM",ZEE TV
 http://198.16.100.90:8278/Zeetvhd/playlist.m3u8?tid=MC1C1971765019717650&ct=19249&tsum=7fea673ee3cb17eeb5c4f9aa6eeec8af
@@ -1515,4 +1504,5 @@ https://horror-tv-local-now.evrideo.tv/ccccf7f5-d10c-46b1-bd10-fdd3a184a958_1000
 
 #EXTINF:-1 group-title="CHANNEL PREMIUM" tvg-logo="",Rakuten TV Thriller
 https://002933288fed459bbb7fe5e82562c3e2.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-gb_RakutenThriller/playlist.m3u8
+
 
