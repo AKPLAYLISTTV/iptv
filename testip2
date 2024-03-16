@@ -2,80 +2,69 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" refresh="3600"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" refresh="3600"
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png?download=true" group-title="Film 24 jam",HBO Family (MAX)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=26f7746faab9374bba08149549dfa5c1:31b343d3d1298d3bb9b79fa6afe1d17c
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+https://kusnadipepenk.github.io/campeign/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png?download=true" group-title="Film 24 jam",HBO Signature (MAX)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=97b88ab09bfd344d9b98fe27cdea9ec8:428c1b5aad09c10629f28bf1e3d10f03
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png?download=true" group-title="Film 24 jam",HBO Hits (MAX)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=72f1aa781ee231beb98f30be106d67cd:81fdf57b35de360cd6e91d79547cad5b
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683098&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png?download=true" group-title="Film 24 jam",HBO (MAX)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=5b380a1293e83cb09d670b5d6fedaf7e:d4a964c51eb6233b085a080a761d3480
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683097&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png?download=true" group-title="Film 24 jam",Cinemax (MAX)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "kid": "xFXNgO0sP6eGL28GBHhDmA", "k": "S0ROBntBoCFBEdlomQA2cA"}], "type": "temporary"}
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683096&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499158_ico.png?download=true" group-title="Film 24 jam",HBO (CUB) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-grup-anti.anakkampang1.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683095&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446409_ico.png?download=true" group-title="Film 24 jam",HBO Hits (CUB) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-grup-anti.anakkampang1.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9499153_ico.png?download=true" group-title="Film 24 jam",HBO Family (CUB) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-grup-anti.anakkampang1.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683094&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9446380_ico.png?download=true" group-title="Film 24 jam",HBO Signature (CUB) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-grup-anti.anakkampang1.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683093&extension=m3u8
 
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png?download=true" group-title="Film 24 jam",Cinemax (CUB) 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-grup-anti.anakkampang1.workers.dev/license
-https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683092&extension=m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png" group-title="INDONESIA",RCTI
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683091&extension=m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png" group-title="INDONESIA",MNC TV
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA" tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" tvg-logo="https://i.ibb.co/WHYWWwx/RCTI.png",RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683090&extension=m3u8
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="INDONESIA",GTV
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:0 tvg-id="" tvg-name="HBO.id" tvg-logo="/storage/emulated/0/logo_tv/hbo-logo.jpg" group-title="Film TV",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
 
-#EXTINF:-1 group-title="IndiHome"  tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
-https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+#EXTINF:0 tvg-name="HBOHits.id" tvg-logo="/storage/emulated/0/logo_tv/HBO_Signature.png" group-title="Film TV",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+
+#EXTINF:0 tvg-name="HBOFamily.id" tvg-logo="/storage/emulated/0/logo_tv/HBO_Family.png" group-title="Film TV",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="/storage/emulated/0/logo_tv/HBOHits.png" group-title="Film TV",HBO Hits
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+
+#EXTINF:0 tvg-name="HBOSignature.id" tvg-logo="CMAX4.png" group-title="Film TV",Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8
+
+#EXTINF:0 tvg-id="outdoor" group-title="MOVIES" tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png", HBO
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/197972
+  
+#EXTINF:0 tvg-id="outdoor" group-title="MOVIES" tvg-logo="https://i.ibb.co/GxcWqVn/HBO-HITS.png", HBO Hits
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/196480
+
+#EXTINF:0 tvg-id="outdoor" group-title="MOVIES" tvg-logo="https://i.ibb.co/ZVncnzk/HBO-FAMILY.png", HBO Family
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/197055
+
+#EXTINF:0 tvg-id="outdoor" group-title="MOVIES" tvg-logo="https://i.ibb.co/jfNk4db/HBO-SIGNATURE.png", HBO Signature
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/221948
+  
+#EXTINF:0 tvg-id="outdoor" group-title="MOVIES" tvg-logo="https://i.ibb.co/ft9dqjM/CINEMAX.png", CINEMAX
+http://013tv.com:8080/bubullea83/fWSgcNAqNOjTif3t/197964
+
 
 
