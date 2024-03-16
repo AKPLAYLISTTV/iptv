@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" refresh="3600"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/AKPLAYLISTTV/epg/main/EPG%20AKTV.xml" refresh="3600"
+#EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="1440" max-conn="1" refresh="24"
@@ -29,76 +28,55 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/indosiar/
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/sctv
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS TV" tvg-logo="https://i-meatballs.bunkr.ru/transtv-TwKxugAt.png?download=true",TRANS TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/634
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/623
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV" tvg-logo="https://i-meatballs.bunkr.ru/antv-aU30GcLl.png?download=true",ANTV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/636
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="GTV" tvg-logo="https://i-meatballs.bunkr.ru/net-tv-LKpIt05W.png?download=true",NET TV
+#EXTINF:-1 group-title="INDONESIA" tvg-id="NET TV - [Channel 116].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/nPhJPmD/NET-TV.png",NET TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/637
 
-#EXTINF:-1 tvg-logo="https://i-meatballs.bunkr.ru/kompas-pIjmwwkW.png?download=true" group-title="INDONESIA",Kompas TV 2
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Trans TV - [Channel 87].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/nDDHQHB/TRANS-TV.png",TRANS TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/634
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Trans 7 - [Channel 110].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/PzTvs7Z/TRANS-7.png",TRANS 7
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/623
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="ANTV - [Channel 115].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/QM6VXd5/ANTV.png",ANTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/636
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/fYxtwRX/KOMPAS-TV.png" group-title="INDONESIA",KOMPAS TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/639
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVONE" tvg-logo="https://i-meatballs.bunkr.ru/tvone-Ke8BNtIH.png?download=true",TVONE
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TVONE" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="INDONESIA" tvg-logo="https://i.ibb.co/H2dxzPn/TV-ONE.png",TVONE
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/635
 
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="http://omzolix.elementfx.com/logo/konoha.jpg" group-title="LIGA KONOHA", MOJI
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVONE" tvg-logo="https://i-meatballs.bunkr.ru/tvone-Ke8BNtIH.png?download=true",TVONE
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Metro TV - [Channel 107].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/638
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TVONE" tvg-logo="https://i-meatballs.bunkr.ru/tvone-Ke8BNtIH.png?download=true",TVONE
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",RTV
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/640
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
+#EXTINF:-1 tvg-id="MOJI" tvg-name="MOJI" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/92Y2YWC/MOJI.png" group-title="INDONESIA", MOJI
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/620
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/23
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/621
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Nusantara TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co/2ndSQzj/NUSANTARA-TV.png", Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/622
+#EXTINF:-1 group-title="INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co/Pxjtgm8/MAGNA.png", Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+  
+#EXTINF:0 tvg-id="outdoor" group-title="INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co/ZhXq0T9/TVRI.png",TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/624
+#EXTINF:-1 group-title="INDONESIA" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co/9VMdk6g/ELSHINTA-TV.png",ELSHINTA TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/625
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/626
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/627
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/628
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="TRANS 7" tvg-logo="https://i-meatballs.bunkr.ru/trans7-rMwhaQOK.png?download=true",TRANS 7
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/629
 
 
