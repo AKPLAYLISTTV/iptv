@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="1440" max-conn="1" refresh="24"
 
-
-
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/hbo/
@@ -20,109 +18,82 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/hbofamily/
 https://hometv.web.id/nvchome/hBK3vdFLmB/cinemax/
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",GARUDA TV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/641
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",BTV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/643
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",TV6
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/647
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",OKEY SPORT
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/650
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",1
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/1
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",2
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",HBO
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/2
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/3
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",4
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",HBO Signature
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/4
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",5
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png", HBO Family
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/5
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(MOBA) Music
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/71
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(POP STAR) Music
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/72
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(JEKA) Music
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/73
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(WWM Rivera) Music
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/74
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(Muzzik) Music
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/75
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(Sense) Music
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/76
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(flash back) Music
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/77
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(Electro) Music
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/78
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",ADITV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/190
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",PKTV
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/195
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",ASHIIL TV (RELIGI)
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/43
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",THE KPOP2
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/69
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",R&R
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/70
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN2
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/890
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN3
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/891
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN1
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/889
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN4
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/892
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN5
-#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/893
