@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml" refresh="1440" max-conn="1" refresh="24"
 
+
+
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
 #EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 https://hometv.web.id/nvchome/hBK3vdFLmB/hbo/
@@ -18,19 +20,10 @@ https://hometv.web.id/nvchome/hBK3vdFLmB/hbofamily/
 https://hometv.web.id/nvchome/hBK3vdFLmB/cinemax/
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",GARUDA TV
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/641
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",BTV
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/643
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",TV6
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/647
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",OKEY SPORT
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/650
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",1
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/1
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",6
+http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/6
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",HBO
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/2
@@ -45,55 +38,59 @@ http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/4
 http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/5
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(MOBA) Music
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/71
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(POP STAR) Music
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/72
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(JEKA) Music
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/73
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(WWM Rivera) Music
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/74
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(Muzzik) Music
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/75
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(Sense) Music
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/76
+https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(flash back) Music
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/77
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",(Electro) Music
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/78
+https://muzzik-live.morescreens.com/mts-9/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",ADITV
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/190
+https://v2.siar.us/aditv/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",PKTV
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/195
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",wesaltv (religi)
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",ASHIIL TV (RELIGI)
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/43
+https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",THE KPOP2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/69
+https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",R&R
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/70
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN2
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/890
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN3
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/891
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN1
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/889
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN4
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/892
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/2Fbm5Jv/RTV.png",SONY SPORTS TEN5
-http://103.127.209.247:8080/247@v2old/M0js5Y5vVA/893
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
