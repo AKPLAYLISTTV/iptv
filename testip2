@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://hometv.pw/logo/movies2/hbo.png" group-title=" HBO 🇮🇩"",11789
-http://103.150.117.215:25461/215@v3new/mcyDhQtVV8/11789
-
 #EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co/nDDHQHB/TRANS-TV.png" group-title="INDONESIA", TRANS TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
