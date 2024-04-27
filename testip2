@@ -1,1 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="OChannel.id" tvg-logo="",x1
+https://delivery-node-lvtggjqmawpiuutl.voe-network.net/engine/hls2-c/01/11050/xhokzbjmzocd_,n,.urlset/master.m3u8?t=uYw0bGndF4dkuBtZmt8vTsDosY-Phyxmku8FM824TKs&s=1714206918&e=14400&f=55254736&node=delivery-node-2q9szkwxe3xq5x6z.voe-network.net&i=111.90&sp=2500&asn=45839
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="OChannel.id" tvg-logo="",x2
+https://delivery-node-hmnxqlpq2hopaiet.voe-network.net/engine/hls2-c/01/11050/fwy0f4itlrnp_,n,.urlset/master.m3u8?t=TGKGrCIZU1D2ubMF0QsQKXptglwAx_O_Xrri0BnCajg&s=1714207060&e=14400&f=55253915&node=delivery-node-gdqovpr0mro33qwk.voe-network.net&i=111.90&sp=2500&asn=45839
+
