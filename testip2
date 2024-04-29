@@ -1,1 +1,523 @@
 #EXTM3U
+#EXTINF:28,INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:28,SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTINF:28,ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:60,RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
+#EXTINF:28,NET
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+#EXTINF:29,TRANSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:26,TRANS7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+#EXTINF:24,NUSANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:35,TV9 NUSANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w180392404.m3u8
+#EXTINF:33,MADU TV NUSANTARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://v6.siar.us:443/madutv/hd720/chunks.m3u8
+#EXTINF:28,Kompas Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h234/01.m3u8
+#EXTINF:24,BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:28,TVRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+#EXTINF:28,Celestial Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
+#EXTINF:28,CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
+#EXTINF:28,Rock Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
+#EXTINF:28,Rock Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
+#EXTINF:28,TVN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
+#EXTINF:28,TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
+#EXTINF:28,K+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+#EXTINF:28,KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h220/01.m3u8
+#EXTINF:28,Kartoon SIS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
+#EXTINF:28,Thrill
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
+#EXTINF:28,M+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h242/02.m3u8
+#EXTINF:28,HITS Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
+#EXTINF:28,FIGHT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h204/02.m3u8
+#EXTINF:28,Cinema World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
+#EXTINF:15,CREMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h228/S4/mnf.m3u8
+#EXTINF:10,Stingray Classica
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://op-group1-swiftservehd-1.dens.tv/h/h229/S4/mnf.m3u8
+#EXTINF:18,DUNIA SINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:60,KPLUS (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
+#EXTINF:32,EBC Movies
+https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+#EXTINF:32,EBC Foreign Movies
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:60,KBS WORLD
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:59,DISCOVERY CHANNEL (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+#EXTINF:60,DISCOVERY SCIENCE (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
+#EXTINF:59,ANIMAL PLANET (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+#EXTINF:59,Investigation Discovery (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
+#EXTINF:59,Dmax (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+#EXTINF:60,Discovery Turbo (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
+#EXTINF:100,NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:100,NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:0,MNCTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683098&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,RCTI
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683099&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,GTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683121&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TRANSTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683100&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TRANS7
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683116&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TV ONE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683101&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CRIME INVESTIGATION
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683088&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,LOVE NATURE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683089&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,HISTORY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683091&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,OUTDOOR
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683086&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,MUSLIM TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683103&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,IDX CHANEL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683104&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,OK TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683105&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TAWAF TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683106&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TV MUHAMMADIYAH
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683108&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CELESTIAL MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683142&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CCM
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683110&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CGTN DOCUMENTARY
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683111&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ZOO MOO
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683113&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,SPOTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683117&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,XINGKONG
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683118&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,VISION PRIME
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683124&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CELEBRITIES TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683126&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ATV14
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683127&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,OKEZONE TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683128&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,LIFE TIME
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683129&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ONE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683130&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Sportstar
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683133&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,KIX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683134&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,FIGHT SPORT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683135&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,HUB SPORT 2
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683138&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,BEIN SPORT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683139&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,FMN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683143&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,AXN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683144&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,HITS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683145&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,HITS MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683163&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CINEMA WORLD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683146&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TVN
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683148&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TVN MOVIES
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683149&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,My Family Cinema
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683150&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,My Cinema Asia
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683151&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,My Cinema
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683152&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,My Kidz
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683156&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,THRILL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683154&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,Zee Bioskop
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683155&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CINEMACHI EXTRA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683161&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CINEMACHI MAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683173&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CINEMACHI KIDS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683085&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ANIMAX
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683165&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,KIDS TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683165&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,DREAMWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683171&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ZOOMOO
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683172&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,PARAMOUNT NETWORK
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683174&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,NICKELODEON
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683175&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,FOX NEWS
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683179&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,JAKTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683180&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,METRO TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683181&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,BTV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683182&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,NHK WORLD
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683183&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TV5 MONDE ASIE
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683184&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CNA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683185&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,CNBC INTERNATIONAL
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683186&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ENT
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683188&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,ALJAZEERA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683190&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,FRANCE 24
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683191&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,DW
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683192&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,SINDONEWS TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683193&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,KOMPAS TV
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683194&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TVRI
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683195&extension=ts&play_token=wJfTp9js5o
+#EXTINF:0,TV9 NUSANTARA
+http://tv.premiumplus.tv:80/play/live.php?mac=00:1A:79:ad:93:91&stream=683196&extension=ts&play_token=wJfTp9js5o
+#EXTINF:12, Douyu Movies 2
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://epg.112114.xyz/douyu/4332
+#EXTINF:18, Douyu Movies 3
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://epg.112114.xyz/douyu/36337
+#EXTINF:9, Douyu Movies 6
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://epg.112114.xyz/douyu/252802
+#EXTINF:80,MY KIDZ (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservesd-1.dens.tv/h/h191/index.m3u8
+#EXTINF:59, Discovery Kid (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
+#EXTINF:60,Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:60, DAVINCI 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00406-tinizinelimited-davinciuk-lggb/playlist.m3u8
+#EXTINF:40,EBS Kids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:16,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+#EXTINF:100,Kids Staton TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:100, TOONZKIDS
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/toonzkids/master.m3u8
+#EXTINF:60,KPLUS (D*)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://210.210.155.35/uq2663/h/h08/index.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
+#EXTINF:60,KBS WORLD
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+#EXTINF:60,DISCOVERY CHANNEL (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverychannel.m3u8
+#EXTINF:60,ANIMAL PLANET (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
+#EXTINF:60,Investigation Discovery (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/investigationdiscovery.m3u8
+#EXTINF:60,Dmax (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/dmax.m3u8
+#EXTINF:59,Discovery Turbo (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoveryturbo.m3u8
+#EXTINF:60,Trvl Channel (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/trvlchannel.m3u8
+#EXTINF:60,HGTV (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/hgtv.m3u8
+#EXTINF:60,TLC (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
+#EXTINF:60,The Food Network (L*)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
+https://s.id/21oj4-tv5mondestyle
+#EXTINF:32,Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_vidio_id_1533_hls.smil/chunklist_b3628000_t64MTA4MHA=.m3u8
+#EXTINF:40,Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0, Star Movies HD
+http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
+#EXTINF:36,NEW K-MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:36,K-Movies
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:36,K-IDS
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+#EXTINF:36,Rakuten Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:60,Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:60,Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:74, COMEDY CENTRAL
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+#EXTINF:75,  TOONCAST 
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+#EXTINF:0, SPACE
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+#EXTINF:75, PARAMOUNT 
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:75, TYC SPORTS
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:75, DISCOVERY
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+#EXTINF:75, ANTENA 3
+http://168.227.22.18:1935/live/mobile-008/playlist.m3u8
+#EXTINF:76, FOX SPORTS mx
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:75, NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+#EXTINF:75, HOLA TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+#EXTINF:75, PASIONES 
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+#EXTINF:75, CINE CANAL
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+#EXTINF:74, MULTIPREMIER
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+#EXTINF:75, CARTOON NETWORK 
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+#EXTINF:75, WB TV
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+#EXTINF:75, ESPN mx
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:75, ESPN 2 mx
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:75, SONY CHANEL 
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+#EXTINF:75, NICK MUSIC
+http://168.227.22.18:1935/live/mobile-039/playlist.m3u8
+#EXTINF:75, TELEMUNDO
+http://168.227.22.18:1935/live/mobile-040/playlist.m3u8
+#EXTINF:75, AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+#EXTINF:75, SYFY
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+#EXTINF:75, BABY TV
+http://168.227.22.18:1935/live/mobile-060/playlist.m3u8
+#EXTINF:75, CNN
+http://168.227.22.18:1935/live/mobile-061/playlist.m3u8
+#EXTINF:75, MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+#EXTINF:75, UNIVERSAL TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+#EXTINF:75, ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+#EXTINF:75, ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+#EXTINF:0, TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+#EXTINF:0, AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+#EXTINF:0, CANAL 12 SV
+http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
+#EXTINF:0, NAT GEO
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+#EXTINF:0, HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+#EXTINF:0, KANAL D
+http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+#EXTINF:0, DREAMWORKS
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:0, FOX DEPORTES
+http://168.227.22.18:1935/live/mobile-104/playlist.m3u8
+#EXTINF:0, H&H
+http://168.227.22.18:1935/live/mobile-107/playlist.m3u8
+#EXTINF:0, FOX SPORTS 3 mx
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:0, TURBO
+http://168.227.22.18:1935/live/mobile-109/playlist.m3u8
+#EXTINF:0, NICK
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+#EXTINF:0, ESPN 3 mx
+http://168.227.22.18:1935/live/mobile-121/playlist.m3u8
+#EXTINF:0, FOX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+#EXTINF:0, TVE
+http://168.227.22.18:1935/live/mobile-128/playlist.m3u8
+#EXTINF:0, CANAL 11 GT
+http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+#EXTINF:0, MODO CINE
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+#EXTINF:0, GOLDEN
+http://168.227.22.18:1935/live/mobile-141/playlist.m3u8
+#EXTINF:0, FILM & ART
+http://168.227.22.18:1935/live/mobile-142/playlist.m3u8
+#EXTINF:0, TNT SPORTS CHI
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTINF:0, ENLACE
+http://168.227.22.18:1935/live/mobile-145/playlist.m3u8
+#EXTINF:0, HINSPAN TV
+http://168.227.22.18:1935/live/mobile-147/playlist.m3u8
+#EXTINF:0, TELEMUNDO INTER
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+#EXTINF:0, IVC
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+#EXTINF:0, LIFETIME
+http://168.227.22.18:1935/live/mobile-154/playlist.m3u8
+#EXTINF:0, E
+http://168.227.22.18:1935/live/mobile-156/playlist.m3u8
+#EXTINF:0, HISTORY 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
+#EXTINF:0, A&E
+http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
+#EXTINF:40,Sony PIX
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:0, Star Movies HD
+http://xtv.ooo:8080/Ijaaz123/aijaz321/66213
+#EXTINF:0,Star Movies Select
+http://xtv.ooo:8080/Ijaaz123/aijaz321/66315
+#EXTINF:34,NEW K-MOVIES
+https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8?ads.wurl_channel=618&ads.wurl_name=NewMovies&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=Tog8X6wK6iweuzGFsz6p&ads.plex_id=60d4eddab2fdec002c141131&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+#EXTINF:36,K-Movies
+https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
+#EXTINF:36,K-IDS
+https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/playlist.m3u8
+#EXTINF:35,Rakuten Action
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:60,M6
+https://shls-m6-france-prod-dub-ak.akamaized.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
+#EXTINF:60,Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:74, COMEDY CENTRAL
+http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
+#EXTINF:75,  TOONCAST 
+http://168.227.22.18:1935/live/mobile-002/playlist.m3u8
+#EXTINF:75, SPACE
+http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
+#EXTINF:75, PARAMOUNT 
+http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:75, NICK JR
+http://168.227.22.18:1935/live/mobile-011/playlist.m3u8
+#EXTINF:75, HOLA TV
+http://168.227.22.18:1935/live/mobile-013/playlist.m3u8
+#EXTINF:75, PASIONES 
+http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+#EXTINF:75, CINE CANAL
+http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
+#EXTINF:75, MULTIPREMIER
+http://168.227.22.18:1935/live/mobile-021/playlist.m3u8
+#EXTINF:75, STUDIO UNIVERSAL 
+http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+#EXTINF:75, CARTOON NETWORK 
+http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
+#EXTINF:75, WB TV
+http://168.227.22.18:1935/live/mobile-030/playlist.m3u8
+#EXTINF:75, SONY CHANEL 
+http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
+#EXTINF:75, AXN
+http://168.227.22.18:1935/live/mobile-048/playlist.m3u8
+#EXTINF:75, CARTOONITO
+http://168.227.22.18:1935/live/mobile-055/playlist.m3u8
+#EXTINF:75, SYFY
+http://168.227.22.18:1935/live/mobile-059/playlist.m3u8
+#EXTINF:75, MTV
+http://168.227.22.18:1935/live/mobile-063/playlist.m3u8
+#EXTINF:75, UNIVERSAL TV
+http://168.227.22.18:1935/live/mobile-064/playlist.m3u8
+#EXTINF:75, UNIVERSO
+http://168.227.22.18:1935/live/mobile-065/playlist.m3u8
+#EXTINF:74, ANIMAL PLANET
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+#EXTINF:75, ZOO MOO
+http://168.227.22.18:1935/live/mobile-069/playlist.m3u8
+#EXTINF:75, TNT
+http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+#EXTINF:74, AMC
+http://168.227.22.18:1935/live/mobile-079/playlist.m3u8
+#EXTINF:74, NAT GEO
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+#EXTINF:75, HBO 2
+http://168.227.22.18:1935/live/mobile-094/playlist.m3u8
+#EXTINF:75, KANAL D
+http://168.227.22.18:1935/live/mobile-097/playlist.m3u8
+#EXTINF:75, DREAMWORKS
+http://168.227.22.18:1935/live/mobile-099/playlist.m3u8
+#EXTINF:75, NICK
+http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
+#EXTINF:75, FOX
+http://168.227.22.18:1935/live/mobile-123/playlist.m3u8
+#EXTINF:75, CANAL 11 GT
+http://168.227.22.18:1935/live/mobile-132/playlist.m3u8
+#EXTINF:74, MODO CINE
+http://168.227.22.18:1935/live/mobile-140/playlist.m3u8
+#EXTINF:75, TELEMUNDO INTER
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
+#EXTINF:75, IVC
+http://168.227.22.18:1935/live/mobile-153/playlist.m3u8
+#EXTINF:75, HISTORY 2
+http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
