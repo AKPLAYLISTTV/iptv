@@ -9,61 +9,26 @@ https://liveaneviadev.mncnow.id/live/eds/GTV-2/sa_hls/GTV-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbXY0KHm/inews.png" group-title="Indonesia 🇮🇩 (server 2) ",INEWS
 https://liveaneviadev.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5403159,AVERAGE-BANDWIDTH=4716452,RESOLUTION=1280x1020,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-http://xtv.ooo:8080/live/03333557111/03333557112/350922.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5403159,AVERAGE-BANDWIDTH=4716452,RESOLUTION=1280x1020,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-http://iptvtree.net:8080/live/mrhyena10/0ec929873f/197055.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5403159,AVERAGE-BANDWIDTH=4716452,RESOLUTION=1980x1220,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-http://xtv.ooo:8080/live/03333557111/03333557112/350957.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=4403159,AVERAGE-BANDWIDTH=3716452,RESOLUTION=1280x1020,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-http://iptvtree.net:8080/live/mrhyena10/0ec929873f/197972.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5403159,AVERAGE-BANDWIDTH=4716452,RESOLUTION=1980x1220,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
 http://xtv.ooo:8080/live/03333557111/03333557112/350958.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
-https://github.com/Arrasyid22/IptvM3Ucustom/deferred-metadata/main/hbocinemax.m3u8
+http://xtv.ooo:8080/live/03333557111/03333557112/350922.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
-https://github.com/Arrasyid22/IptvM3Ucustom/deferred-metadata/main/hboid.m3u8
+http://iptvtree.net:8080/live/mrhyena10/0ec929873f/197055.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
-https://github.com/Arrasyid22/IptvM3Ucustom/deferred-metadata/main/hbofamily.m3u8
+http://xtv.ooo:8080/live/03333557111/03333557112/350957.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
-https://github.com/Arrasyid22/IptvM3Ucustom/deferred-metadata/main/hbohits.m3u8
+http://iptvtree.net:8080/live/mrhyena10/0ec929873f/197972.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
-https://github.com/Arrasyid22/IptvM3Ucustom/deferred-metadata/main/hbosignature.m3u8
-
-#EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5403159,AVERAGE-BANDWIDTH=4716452,RESOLUTION=1280x1020,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
 http://iptvtree.net:8080/live/F28364/b1a3b4a8/162138.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=4403159,AVERAGE-BANDWIDTH=3716452,RESOLUTION=1080x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=3403159,AVERAGE-BANDWIDTH=2716452,RESOLUTION=780x420,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
-http://mykingtv.net:2082/live/Boyans/04032023/5117.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
-https://raw.githubusercontent.com/Arrasyid22/IptvM3Ucustom/main/ligabri1.m3u8
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/621.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/nn/nba_tv_us.png" group-title="Qingsports", NBA TV
+http://mykingtv.net:2082/live/Boyans/04032023/5117.m3u8
