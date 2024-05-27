@@ -1,2 +1,104 @@
 #EXTM3U
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://w7.pngwing.com/pngs/914/277/png-transparent-hbo-television-channel-logo-television-show-design-television-text-logo.png" ch-number="92" group-logo="",HBO (MAX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNzg1OTYwMjQiLCJyZWZyZXNoX3Rva2VuIjoiS1BzV2pLbkdDb3RpaXE5Z256ZTl4d01KMDdLRmdKbWtQanF4RWI1c1MwNnNKVWxwVHhyR05UNml6dEZQaXliWmVYR25zbm43ckI3T2paRXJcL1FPVjJvRTJycDA1MVpaaW1idzFLcHhZQWRIZ0d2R3ozVHg2Mk4xayt4bUM0akVydnpHWlZoSTBhWGdHWGpTQnlWeUFaXC9nT09yVnRKOGlxTVRDM1NGaThZckZEemdLVjlpSGZXd29IWkZMWXBOaU05QzJrTjVzTzBUb1RjTGk3Yk9ZOTdGbWQxMlwvVVp4NjI2K3pOWUZ0aDVIMFwvcE84Y2NETTg3djlGRElFVXl1RmdGRTcwMytVR2ZtN3hFcDNDdklGdTlibHRwbGl5THA4NVZWZzFMMXQydmNpa3FUSmhRRGk2WkhOTTFSVWhHVU90In0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE2ppafRVDb9pYTTZL5Msrt_4Antbpguvy2Ye9GdmIhg&s" ch-number="92" group-logo="",HBO Signature  (MAX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjcwODUzMjEiLCJyZWZyZXNoX3Rva2VuIjoiQW40S3RYM29LXC94MGFEeHRHaXFyQzZTRVFqaG5IVEhMb1lVTWlDTlNOdnNaUlJQcHowMFdwYm1GV0w0SHYreXU4T1FubmRpeFdKZEFEM3dxTWhXSWh6ZnJwRFFzYnFITVdtNVpNdUJLekNkUkNDQkgycmE0TlluOHhZQ1JuMitzUFZtRlZUVVp4MEJzWXBpM0lSb2g3MnJ3bE5FSDhrU3BhdSt3cjErdmFxSWwxZWREdzFJY3hndmNcL0k1YWo2TkN0Z3hsUm5JRHB4ZGhrdzJCTnoyZjMxRTY4Y051blVnQTE2SWkrOVBsRjBqN0l0SEhCeHp4bHZucmt0Z1JmN3luTTV2UnJoRW5Xb1pLZVdKUzNsRDBTOW4rZDJxRnJlQTBuRkhrRDFJcEdPalRaWVlCQm5PYjFTaTVZbTcwOXdvWSJ9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG4Vz90-EaxidoPQIjbE_f2Nr6zR0ewZrN_EzwB1TqMQ&s" ch-number="92" group-logo="",HBO Hits  (MAX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNTcyMTAzOTYiLCJyZWZyZXNoX3Rva2VuIjoidGRkSFMxTWFwd25qckszbTNwYVFIVkhXa2Q1NElTZm1CSjQ3QXU1MVRabmR5U25FMEVPRk9Yb1RYN3NUUWVtRDg1Vm9XdkU0RlVvR2o0QjVmOWxGRXFhU0VoZTIyaG8xbUJ1N3h0b3lGNkx2SCs2eVl5VGRaelwvVVpuc2psWHRiK21HdkI5YjdFSlcwaDdlZkFlNStzK040eW85Mm9TeUlzWWp4RStta21jdmdwNmFIdkFWVU1hMGNLMFVZbEh1YVBlcGhuVGNQWkNQaWJ1NWpcL0tpdUVNV1NBOEJOaXAxZENCd0I1OTZxeCtwRlFtN2FXbFlhWmo0M1wvYnZWd1FhVTVqU25zTUhQUkw2XC9leGxZYmJaTzVXUGNjRlNZNjlLY0pMT1B4VUZxWEJKeTZrTllCYTl5c0pLRXZFODRKVVp4In0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://w7.pngwing.com/pngs/534/400/png-transparent-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-family.png" ch-number="92" group-logo="",HBO Family  (MAX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiODUzOTI0NjAiLCJyZWZyZXNoX3Rva2VuIjoiSk1adExVU0pzZDZBRTI5THZxaGxvVGZ1TkhyRjVCbXQ5N1wvWDlBU3A4SkhpOHErTFJLMGFSS28xWWxIVk03NVh3S3RnVXZJKzVVMTF3eTJLSTRXY0E1MmZOWUtKMVdoRUNyWmFaTENEOTlOTytQbFJuN2RHQ0xDa2I4RlwvY3FTVEdwMzBYR0tqa3pcL3FhcFBFQThCRGRyd3RoVnZzQ0NYc1l1QkZYN0lTSnlcL1JpTDE3d2RFTW5zbGtMWUFuUWM4dWRnRzlhWDFPRmdhemVpcTlCbTNzc3UwOVo1NVFXUkZmYkVxUisybFF6MGR0d0Eya3d4ZzJQamFSbmp4SDRaTkptT3Znem9nbFBMZThtWE1YNTBSellFeHFCTlVSZG5BTlgyc3JxTzRKRnBoU055Q3Z6N2ZPWjJEZUhZaGliNmNHIn0=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" ch-number="92" group-logo="",Cinemax (MAX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjQ3OTE1MzgiLCJyZWZyZXNoX3Rva2VuIjoiZnB1eFp3QSsrXC9aanNlNmlURDlnY25CUHZhYnZZbmo1b3BXM0hVRTgwbXlXNDFyNUFmWVdrVEhrZWZoYndKRzdZbG5wZG9zOXR6WTBUVXR0Tm9SRHZ0bGhPcHI3TEFIaGRlNXFrQTFTNFpRS1wvQkpSNVBmTmlmNUtpbE91Y1wvaFY4WTF6VWZpSDVpMDdGTWRiYWV2ODBKNjRsZ0pkVUlzOGE3ZW1LQngwbG9JbExxbXRuVDgyUVdDNFg1MUhYajF1U2RLejZOQ1VobjJSNUVST1BrbjRMZGtvenhjUFl5dVA1RitHQ2xTZnVINTc2N2ZNeVdcL3B4WU5LTHFjZCtDckplaWp2amMrVWFOR1VSakh1bTk2TmY1bHQzNGJWMm85MUY3ZEp5akozXC9ROHFnc3JxRGl2XC9OYzFybXpuUEpwaXIifQ==
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" ch-number="92" group-logo="",FLIK 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjQ3OTE1MzgiLCJyZWZyZXNoX3Rva2VuIjoiZnB1eFp3QSsrXC9aanNlNmlURDlnY25CUHZhYnZZbmo1b3BXM0hVRTgwbXlXNDFyNUFmWVdrVEhrZWZoYndKRzdZbG5wZG9zOXR6WTBUVXR0Tm9SRHZ0bGhPcHI3TEFIaGRlNXFrQTFTNFpRS1wvQkpSNVBmTmlmNUtpbE91Y1wvaFY4WTF6VWZpSDVpMDdGTWRiYWV2ODBKNjRsZ0pkVUlzOGE3ZW1LQngwbG9JbExxbXRuVDgyUVdDNFg1MUhYajF1U2RLejZOQ1VobjJSNUVST1BrbjRMZGtvenhjUFl5dVA1RitHQ2xTZnVINTc2N2ZNeVdcL3B4WU5LTHFjZCtDckplaWp2amMrVWFOR1VSakh1bTk2TmY1bHQzNGJWMm85MUY3ZEp5akozXC9ROHFnc3JxRGl2XC9OYzFybXpuUEpwaXIifQ==
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="Movies" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" ch-number="92" group-logo="",FLIK 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kuyydrm.mantapwork.workers.dev/clearkey/?key=eyJ1c2VyX3Rva2VuIjoiNjQ3OTE1MzgiLCJyZWZyZXNoX3Rva2VuIjoiZnB1eFp3QSsrXC9aanNlNmlURDlnY25CUHZhYnZZbmo1b3BXM0hVRTgwbXlXNDFyNUFmWVdrVEhrZWZoYndKRzdZbG5wZG9zOXR6WTBUVXR0Tm9SRHZ0bGhPcHI3TEFIaGRlNXFrQTFTNFpRS1wvQkpSNVBmTmlmNUtpbE91Y1wvaFY4WTF6VWZpSDVpMDdGTWRiYWV2ODBKNjRsZ0pkVUlzOGE3ZW1LQngwbG9JbExxbXRuVDgyUVdDNFg1MUhYajF1U2RLejZOQ1VobjJSNUVST1BrbjRMZGtvenhjUFl5dVA1RitHQ2xTZnVINTc2N2ZNeVdcL3B4WU5LTHFjZCtDckplaWp2amMrVWFOR1VSakh1bTk2TmY1bHQzNGJWMm85MUY3ZEp5akozXC9ROHFnc3JxRGl2XC9OYzFybXpuUEpwaXIifQ==
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVHpGRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO GROUP", HBO - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO GROUP", HBO Hits - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://hbohitsmax.openwindows037.workers.dev/
+#EXTINF:0 tvg-id="HBO HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO GROUP", HBO - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDBaRVVrMHNNVGt5TVRVME1qTTFNaXhoYm1SeWIybGtMREJmYTJWdmFtcHNZVFkiLCJtZXJjaGFudCI6InRlbGtvbXNlbCJ9"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Family HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO GROUP", HBO Family - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRWhDVDFNeFJGSk5MREU1TWpFMU5ESXpOVElzWVc1a2NtOXBaQ3d3WDJ0bGIycHFiR0UyIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="HBO Signature HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO GROUP", HBO Signature - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTHTTP:{"dt-custom-data": "eyJ1c2VySWQiOiJ4eHh4eHh4eC14eHh4LXh4eHgteHh4eC14eHh4eHh4eHh4eHgiLCJzZXNzaW9uSWQiOiJlSGg0ZUhoNGVIZ3RlSGg0ZUMxNGVIaDRMWGg0ZUhndGVIaDRlSGg0ZUhoNGVIaDRMR052YlM1dFlYaHpkSEpsWVcwc1JFRlRTRU5KVGtWTlFWaEVVazBzTVRreU1UVTBNak0xTWl4aGJtUnliMmxrTERCZmEyVnZhbXBzWVRZIiwibWVyY2hhbnQiOiJ0ZWxrb21zZWwifQ"}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic.drmtoday.com/license-proxy-widevine/cenc/?specConform=true
+#EXTINF:0 tvg-id="Cinemax HD" tvg-url="http://bit.ly/maytvEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO GROUP", Cinemax - MAX
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
