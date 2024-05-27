@@ -16,10 +16,16 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
 #EXTINF:-1 tvg-name="TRANS TV" tvg-logo="" group-title="INDONESIA",METRO TV
-https://streaming.indihometv.com/atm/DASH/metrotv/manifest.mpd
+https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
 #EXTINF:-1 tvg-name="TV ONE" tvg-logo="" group-title="INDONESIA",TV ONE
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="" group-title="INDONESIA",KOMPAS TV
+https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
+
+#EXTINF:-1 tvg-name="RTV" tvg-logo="" group-title="INDONESIA",RTV
+https://streaming.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 tvg-name="FLIK" tvg-logo="" group-title="INDONESIA",FLIK
 https://streaming.indihometv.com/atm/DASH/flik/manifest.mpd
@@ -54,23 +60,11 @@ https://streaming.indihometv.com/atm/DASH/hitsnow/manifest.mpd
 #EXTINF:-1 tvg-name="ANIMAL PLANET" tvg-logo="" group-title="INDONESIA",ANIMAL PLANET
 https://streaming.indihometv.com/atm/DASH/animalplanet/manifest.mpd
 
-#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="" group-title="INDONESIA",KOMPAS TV
-https://streaming.indihometv.com/atm/DASH/kompastv/manifest.mpd
-
-#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="" group-title="INDONESIA",KOMPAS TV
-https://streaming.indihometv.com/atm/DASH/kompastv/manifest.mpd
-
 #EXTINF:-1 tvg-name="NET TV" tvg-logo="" group-title="INDONESIA",NET TV
 https://streaming.indihometv.com/atm/DASH/net/manifest.mpd
 
 #EXTINF:-1 tvg-name="iNEWS" tvg-logo="" group-title="INDONESIA",iNEWS
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
-
-#EXTINF:-1 tvg-name="iNEWS" tvg-logo="" group-title="INDONESIA",iNEWS
-https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
-
-#EXTINF:-1 tvg-name="RTV" tvg-logo="" group-title="INDONESIA",RTV
-https://streaming.indihometv.com/atm/DASH/rtv/manifest.mpd
 
 #EXTINF:-1 tvg-name="MUSIK INDO" tvg-logo="" group-title="INDONESIA",MUSIK INDO
 https://streaming.indihometv.com/atm/DASH/musikindo/manifest.mpd
@@ -81,8 +75,6 @@ https://streaming.indihometv.com/atm/DASH/seru/manifest.mpd
 #EXTINF:-1 tvg-name="U CHANNEL" tvg-logo="" group-title="INDONESIA", U CHANNEL
 https://streaming.indihometv.com/atm/DASH/uchannel/manifest.mpd
 
-#EXTINF:-1 tvg-name="U CHANNEL" tvg-logo="" group-title="INDONESIA", U CHANNEL
-https://streaming.indihometv.com/atm/DASH/uchannel/manifest.mpd
 
 #EXTINF:-1 tvg-name="Z BIOSKOP" tvg-logo="" group-title="INDONESIA", Z BIOSKOP
 https://streaming.indihometv.com/atm/DASH/zbioskop/manifest.mpd
