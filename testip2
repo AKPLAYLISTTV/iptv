@@ -294,5 +294,45 @@ http://webo.asia:80/arif/arif/15260
 #EXTINF:-1 group-title="Sports🏆" tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg",EuroSports 2
 http://webo.asia:80/arif/arif/15259
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO
+https://raw.githubusercontent.com/zalindo/tv/master/hbo.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO ID
+https://www.dropbox.com/s/dl/0577j7w2ej55ajv/mkctv_hbo.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO HITS
+https://raw.githubusercontent.com/zalindo/tv/master/hbohit.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO Family
+https://raw.githubusercontent.com/zalindo/tv/master/hbofam.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",HBO Signature
+https://raw.githubusercontent.com/zalindo/tv/master/hbosig.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Cinemax
+https://www.dropbox.com/s/dl/zz3he1mu3lilgiz/mkctv_cinemax.m3u8
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",ZQ Drama ID
+https://tinyurl.com/gratistvmediaZQDRAMA
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Film? 
+http://198.98.55.16:80/crtv.php?id=1174 
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Nyra bets
+http://198.98.55.16:80/crtv.php?id=1187
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Bernama tv
+http://198.98.55.16:80/crtv.php?id=1171
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Tvn
+http://198.98.55.16:80/crtv.php?id=1170
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Okey
+http://198.98.55.16:80/crtv.php?id=1169
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Astro aod
+http://198.98.55.16:80/crtv.php?id=1166
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Film? 
+http://198.98.55.16:80/crtv.php?id=1165
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Astro ceria
+http://198.98.55.16:80/crtv.php?id=1161
+#EXTINF:-1 tvg-logo="TEST" group-title="FilmPremium1",Mediacorp 8
+http://198.98.55.16:80/crtv.php?id=1160
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEE SPORT 1
+http://103.130.186.138:8800/oxygenplay/hbo/index.m3u8
+http://thepwfamily.com/stream/useesports1.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEE SPORT 2
+http://thepwfamily.com/stream/useesports2.m3u8
+
 
 
