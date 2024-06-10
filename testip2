@@ -68,32 +68,56 @@ http://iptvtree.net:8080/F14995/a84c0963/196480
 http://iptvtree.net:8080/F14995/a84c0963/221948
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/blob/main/hbo-animation.m3u8
+http://iptv12k.com:35461/80236053010/645789/1893
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/deferred-ast/main/hbo.m3u8
+http://xtv.ooo:8080/MansoorWapda/258741/350955
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/deferred-ast/main/hbofamily.m3u8
+http://xtv.ooo:8080/live/RiyazMPT/433833/350956.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/deferred-ast/main/hbohits.m3u8
+http://170.254.18.106/HBO_FAMILY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/deferred-ast/main/hbosig.m3u8
+http://xtv.ooo:8080/live/RiyazMPT/433833/350957.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/deferred-ast/main/flik.m3u8
+http://xtv.ooo:8080/live/RiyazMPT/433833/350958.ts
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/deferred-ast/main/dunialain.m3u8
+http://170.254.18.106/HBO_SIG/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/deferred-ast/main/beinsports1.m3u8
+http://iptvtree.net:8080/F26646/f950f250/165095
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/deferred-ast/main/beinsports2.m3u8
+http://iptv12k.com:35461/live/80236053010/645789/607.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
-https://github.com/mimipipi22/lalajo/deferred-ast/main/beinsports3.m3u8
+http://xtv.ooo:8080/live/MansoorWapda/258741/350922.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
+http://170.254.18.106/CINEMAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
+http://iptv12k.com:35461/live/80236053010/645789/4800.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
+http://xtv.ooo:8080/live/RiyazMPT/433833/350900.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
+http://iptv12k.com:35461/live/80236053010/645789/3309.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
+http://xtv.ooo:8080/live/RiyazMPT/433833/348203.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
+http://iptv12k.com:35461/live/80236053010/645789/960.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
+http://xtv.ooo:8080/live/RiyazMPT/433833/350901.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
+http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 
