@@ -1,7 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="TEST" group-title="VodIndonesiaAja",BIDADARI SURGA (2012)
-https://ia600409.us.archive.org/25/items/yang-patah-tumbuh-yang-hilang-berganti-2023/Yang%20Patah%20Tumbuh%2C%20Yang%20Hilang%20Berganti%20%282023%29.mp4?cnt=0
+#EXTINF:-1 tvg-logo="TEST" group-title="VodIndonesiaAja",Yang Patah Tumbuh, Yang Hilang Berganti ( 2023)
+https://archive.org/download/yang-patah-tumbuh-yang-hilang-berganti-2023/Yang%20Patah%20Tumbuh%2C%20Yang%20Hilang%20Berganti%20%282023%29.mp4?dl=1
+
+#EXTINF:-1 tvg-logo="TEST" group-title="VodIndonesiaAja",Yang Patah Tumbuh, Yang Hilang Berganti ( 2023)
+https://archive.org/download/yang-patah-tumbuh-yang-hilang-berganti-2023/Yang%20Patah%20Tumbuh%2C%20Yang%20Hilang%20Berganti%20%282023%29.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="TEST" group-title="VodIndonesiaAja",BIDADARI SURGA (2012)
 https://stream.hownetwork.xyz/yyy/god-gamblers-ii-1990-bluray/2/480.m3u8
