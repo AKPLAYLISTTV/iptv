@@ -121,3 +121,10 @@ http://xtv.ooo:8080/live/RiyazMPT/433833/350901.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
 http://143.244.60.30/ESPN/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wzNw0zL/hbo.png" group-title="HBO | GROUP",HBO
+http://iptv12k.com:35461/live/80236053010/645789/19806.m3u8 (Disney HD)
+
+#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/01/Poster_Agak_Laen_%282024%29.jpg", Agak Laen (2024)
+https://ia902909.us.archive.org/2/items/agak-laen-2024/Agak%20Laen%20%282024%29.mp4?dl=1
+
