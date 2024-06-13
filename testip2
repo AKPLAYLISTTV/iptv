@@ -6,23 +6,35 @@ https://pixeldrain.com/api/file/6jfwDD98
 #EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU0ZGRiMzctMGQzNy00MGE3LThlMmMtNDVmNTk4MDZiOGQwXkEyXkFqcGdeQXVyNzY4NDQzNTg@._V1_FMjpg_UX1000_.jpg", Pulang (2022)
 https://pixeldrain.com/api/file/aDZcXE2h
 
-#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGViY2Q1OWYtM2RjYS00OWE1LTk2MmMtOWNjNjcyOWE4MTY2XkEyXkFqcGdeQXVyNjc5MjE5Nzg@._V1_FMjpg_UX1000_.jpg", Punk in Love (2009)
-https://pixeldrain.com/api/file/rhzbBa48
-
 #EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDgyN2MzZjgtZmE5ZC00YWJiLTk4ZTItODQwNGE2ZDFjMWQ0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Puspa Indah Taman Hati (2023)
-https://pixeldrain.com/api/file/VxGfVcyP
+https://pixeldrain.com/api/file/VxGfVcyP?download.m3u8
 
 #EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ4Y2IzOTAtNzQ2NC00MGZlLWEzZWYtMTBjYzc2OTE4NTc2XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Qodrat (2022)
-https://pixeldrain.com/api/file/NkUUb6R6
+https://pixeldrain.com/api/file/NkUUb6R6.m3u8
 
 #EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI3MzliMmItZjQ3NC00MTJhLTk1YmYtMzU2NmYxMDAyNDQxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Petualangan Sherina 2 (2023)
+#EXTVLCOPT:User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://pixeldrain.com/api/file/HyVvNuKd
 
 #EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWUwODkyOGMtNDc1My00MWFkLTg4OWItOTI0YzFjM2YxNTRkXkEyXkFqcGdeQXVyMTE4MTAxMzUx._V1_FMjpg_UX1000_.jpg", Persahabatan Bagai Kepompong (2021)
+#EXTVLCOPT:http-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://pixeldrain.com/api/file/ZHVJ7aW6
 
-#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA4NGNiM2YtYmU3NS00NWE1LTg0MTQtYmE5YTUzZjM2YWM0XkEyXkFqcGdeQXVyMTIzOTY2MjU1._V1_FMjpg_UX1000_.jpg", Pelukis Hantu (2020)
-https://pixeldrain.com/api/file/e4mXVFp9
+#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BNWUwODkyOGMtNDc1My00MWFkLTg4OWItOTI0YzFjM2YxNTRkXkEyXkFqcGdeQXVyMTE4MTAxMzUx._V1_FMjpg_UX1000_.jpg", Persahabatan Bagai Kepompong (2021)
+#EXTVLCOPT:http-User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://pixeldrain.com/api/file/ZHVJ7aW6?download
 
-#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjU5NjYyNzQtZDQ3Ny00Y2FkLWIyZGYtNzM5YzM3NDdjMjUxXkEyXkFqcGdeQXVyMzYzOTYxNzM@._V1_FMjpg_UX1000_.jpg", Pengabdi Setan (2017)
-https://pixeldrain.com/api/file/gM4tXijg
+#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI3MzliMmItZjQ3NC00MTJhLTk1YmYtMzU2NmYxMDAyNDQxXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg", Petualangan Sherina 2 (2023)
+#EXTVLCOPT:User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://pixeldrain.com/api/file/HyVvNuKd?download
+
+#EXTINF:-1 group-title="VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTA4NGNiM2YtYmU3NS00NWE1LTg0MTQtYmE5YTUzZjM2YWM0XkEyXkFqcGdeQXVyMTIzOTY2MjU1._V1_FMjpg_UX1000_.jpg", Pelukis Hantu (2020)
+https://pixeldrain.com/api/file/WkUj3utq?download
+
+
+
+
+
+
+
+
