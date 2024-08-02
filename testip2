@@ -1,20 +1,125 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png" group-title="Lokal HD", INDOSIAR 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://raw.githubusercontent.com/Arrasyid22/vision-/main/indosiar.m3u8
-#http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/162138
-#https://play.gachor99.my.id:443/hometv_lite2/h6NwHhGE43/8
-http://iptvtree.net:8080/AmirBilali/76448035/162138
-http://stb.mbahnunungonline.net/live/m3u8/id/575eeb9f08dc8da.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch109.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD MOVIE MANDARIN" tvg-logo="http://pictures.my.id/images/school1.png", Fight Back to School 1 (1991) 1
-https://file4.gofile.io/download/web/f11ecc67-a802-4ad7-9234-31771d3bdf70/Badarawuhi.Di.Desa.Penari.2024.1080p.AMZN.WEB-DL.Sub.Eng.DDP5.1.H.264-PENCURiMOViE.BOND.mkv
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch108.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD MOVIE MANDARIN" tvg-logo="http://pictures.my.id/images/school1.png", Fight Back to School 1 (1991) 2
-https://pixeldrain.com/api/file/9dPV64Zh?download
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="VOD MOVIE MANDARIN" tvg-logo="http://pictures.my.id/images/school1.png", Fight Back to School 1 (1991) 3
-https://spyderrock.com/2FZS3557-Badarawuhi.mkv
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch106.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch105.m3u8
 
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch104.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch102.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch110.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch111.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch112.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch113.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch114.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch115.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch116.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch1.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch4.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch5.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch6.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch7.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch8.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch9.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch10.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch12.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch13.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch14.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch16.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch17.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch22.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch24.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch25.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-id="MetroTV.id" tvg-logo="https://i.ibb.co/j33xfnJ/METRO-TV.png",METRO TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch60.m3u8
