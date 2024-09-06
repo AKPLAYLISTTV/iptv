@@ -39,276 +39,44 @@ http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298504
 #EXTINF:-1 group-title="LOKAL" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="",indosiar
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
 
-#EXTINF:0 tvg-id="JC" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩",DUNIA GAME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdn01-telkomsel-01.akamaized.net/Content/HLS/Live/channel(6854467f-52fe-48ee-9822-00233c678709)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="LOKAL" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="",indosiar
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162136
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a407479f074d43d798478c1212d95876:3afb53a2643939cd7128fa7ceded533a
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbo.png" group-title="HBO Group",HBO SG 
-https://tglmp01.akamaized.net/out/v1/29687feb8f96427ca7348cd59c2338d9/manifest.mpd
+#EXTINF:-1 group-title="LOKAL" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="",indosiar
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162137
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=473fabdc05ac4d9b94fd34f33f73394f:1072b1e61206c3859607984f872e549c
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbohits.png" group-title="HBO Group",HBO Hits SG 
-https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.mpd
+#EXTINF:-1 group-title="LOKAL" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="",indosiar
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162140
 
-#KODIPROP:inputstream.adaptive.license_key=363b551913124d6b80074ca295b25129:a6c6efcab0076d572e5732fb6451d19c
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbofamily.png" group-title="HBO Group",HBO Family 
-https://tglmp03.akamaized.net/out/v1/d15476c2807d4380b0cc375a7d861752/manifest.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" group-title="HBO Group",HBO Signature SG 
-https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
+#EXTINF:-1 group-title="LOKAL" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="",indosiar
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162141
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=32bc2ee6869144b88bee3babf202f88e:50d3b9ec49e1570621d45822923607f7
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/cinemax.png" group-title="HBO Group",Cinemax SG 
-https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.mpd
+#EXTINF:-1 group-title="LOKAL" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="",indosiar
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162143
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197938
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197939
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197945
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197946
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197949
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197958
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197965
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mpd/CartoonitoHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cmt.mb13.cyou/bW9kZXJv/ku/see/css/licastro.php?kv=4d4732d93e6720de0ef884d7106e14f7&kid=a79a188263724bfcaafc4a7c3b3cd8ce&tekon=djisamsoe
-#EXTINF:-1 tvg-ID="animax.id" tvg-name="SCTV" group-title="AK PLAYLIST" tvg-logo="https://thumbor.prod.vidiocdn.com/g4J3EusX-82HUNz7uYuPBN-zUCM=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-f23abc.jpg", SCTV
-#EXTVLCOPT:http-origin=https://www.visionplus.id/
-#EXTVLCOPT:http-referrer=Google
-#EXTVLCOPT:http-accept-encoding=gzip, deflate, br
-#EXTVLCOPT:http-accept-language=en-US,en;q=0.9,id;q=0.8
-#EXTVLCOPT:http-sec-ch-ua="Microsoft Edge";v="117", "Not;A=Brand";v="8", "Chromium";v="117"
-#EXTVLCOPT:http-sec-ch-ua-mobile=?0
-#EXTVLCOPT:http-sec-ch-ua-platform="Windows"
-#EXTVLCOPT:http-sec-fetch-dest=empty
-#EXTVLCOPT:http-sec-fetch-mode=cors
-#EXTVLCOPT:http-sec-fetch-site=cross-site
-#EXTVLCOPT:http-user-agent=Google
-https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="MOVIES",HBO
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/197968
 
 
 
