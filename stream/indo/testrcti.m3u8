@@ -4,7 +4,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.ts
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/26595.ts
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.ts
-http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/197972.ts
+https://hs-cors.herokuapp.com/http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298526.ts
+https://hs-cors.herokuapp.com/http://iptvtree.net:8080/live/one-day-test-89fc/54CbToqS2c/298526.ts
