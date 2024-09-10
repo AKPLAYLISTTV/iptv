@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX03Cqn0CCsPc7lLdHaLqlRNU
