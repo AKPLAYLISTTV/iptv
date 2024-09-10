@@ -1,10 +1,13 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="INDONESIA MYTV" tvg-logo="https://lo1.in/indo/rct.png" tvg-id="rctihd.id" ,ID| RCTI HD
-http://mytv-extra.com:80/t12mgxyb335/9832948789/400200742
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",RCTI
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-m.png" group-title="NASIONAL DIGITAL",RCTI
-https://raw.githubusercontent.com/Arrasyid22/vision-/main/rcti.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",GTV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/gtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-m.png" group-title="NASIONAL DIGITAL",RCTI
-https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/timnas1.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",MNCTV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/mnctv.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",INEWS
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/inews.m3u8
