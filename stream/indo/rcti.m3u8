@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://metatvpro.xyz:25461/live/J2781/5030/100.ts
+http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aVhBQ6oO4KYeCVrP7rSeW5I/ts
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-2/sa_hls/rcti-2.m3u8
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
