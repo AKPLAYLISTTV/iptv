@@ -1,82 +1,10 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="⚽PREMIUM SPORT" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+#EXTINF:-1 group-title="INDONESIA MYTV" tvg-logo="https://lo1.in/indo/rct.png" tvg-id="rctihd.id" ,ID| RCTI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400200742
 
-#EXTINF:-1 group-title="⚽PREMIUM SPORT" tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2 HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-m.png" group-title="NASIONAL DIGITAL",RCTI
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/rcti.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="⚽PREMIUM SPORT",Soccer channel
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
-
-#EXTINF:-1 group-title="NASIONAL AUTO" tvg-logo="https://i.imgur.com/FxS4HLZ.jpeg", MOJI V
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
-https://gatotkaca007.serv00.net/red/play.m3u8?id=206&type=hls
-
-#EXTINF:-1 tvg-id="Indosiar" tvg-name="INDOSIAR" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="NASIONAL AUTO",INDOSIAR M
-http://metatvpro.xyz:25461/live/J2781/5030/105.ts|user-agent=Mozilla/5.0
-
-#EXTINF:-1 group-title="NASIONAL AUTO" group-logo="https://pictr.com/images/2023/05/12/E8dQsI.png" tvg-id="Trans7.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7 C
-http://metatvpro.xyz:25461/live/J2781/5030/103.ts|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be4d55ce58dd/7862982cb44d4e8bbc61a630beca66f6.png" group-title="NASIONAL HD 1", SCTV HD 2
-http://metatvpro.xyz:25461/live/J2781/5030/101.ts|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="" tvg-name="RCTI HD" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="NASIONAL HD 1", RCTI HD
-http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aVhBQ6oO4KYeCVrP7rSeW5I|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685758bcfff01776c4ea3520a72/dfbeb8234b8d4794be107648d83c57ac.png" group-title="NASIONAL HD 1",NET TV
-#EXTVLCOPT:http-user-agent=Mozila/5.0
-http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aSxIyBBLJa9DztaVWNWC-W8|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="" tvg-name="TRANS7 HD" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="NASIONAL HD 1",TRANS7 B
-http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aQwpq-KkVepmfWebPeiBBbs|user-agent=Mozilla/5.0
-
-#EXTINF:-1 tvg-id="GARUDA TV" group-title="NASIONAL HD 1" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be5cd0b15903/bb1a5397f68d42899630a14334c359aa.jpg",RTV
-#http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aRosoJPySMCR7S5ZBYFKkz8|user-agent=Mozilla/5.0
-
-#EXTINF:0 tvg-name="RCTI" tvg-id="rcti.id" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be51092e58f1/9eec8914d4f74ee5a5f4d988c2965902.png" group-title="NASIONAL HD 1",RCTI
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-http://metatvpro.xyz:25461/live/J2781/5030/100.ts
-
-#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="HBO" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kM_1ElBuZ5P6euLlqe7zdTg.png" group-title="MOVIES",HBO
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0zF4-EbCrAPkVojPsXwCL8w|user-agent=Mozilla/5.0
-
-#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHBCisUrZPOuR7DGUWpd6jA.png" group-title="MOVIES",HBO HITS
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX02pGRVh3e2IKY5Hrs8Nti1I|user-agent=Mozilla/5.0
-
-#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kNkhUwRoMQnZNMMg2owVtVycDHVLReGkYsHljy82f2r0.png" group-title="MOVIES",HBO SIGN
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX06vz7eErbbFEJs-PlKa9sCo|user-agent=Mozilla/5.0
-
-#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kSN4o1NnpfH6cnY3kZaYgBeWFuwuQVaHj9EeAbuB8yDI.png" group-title="MOVIES",HBO FAMILY
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX02eeqVxt4642H5lISJHv6tE|user-agent=Mozilla/5.0
-
-#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJGoapq-oENaZDsh2_74URQ.png" group-title="MOVIES",CINEMAX
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX03UXV9VD2E5xjsrt3W6wTNs|user-agent=Mozilla/5.0
-
-#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="HBO" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kM_1ElBuZ5P6euLlqe7zdTg.png" group-title="MOVIES",HBO
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0zF4-EbCrAPkVojPsXwCL8/ts|user-agent=Mozilla/5.0
-
-#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHBCisUrZPOuR7DGUWpd6jA.png" group-title="MOVIES",HBO HITS
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX02pGRVh3e2IKY5Hrs8Nti1I/ts|user-agent=Mozilla/5.0
-
-#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kNkhUwRoMQnZNMMg2owVtVycDHVLReGkYsHljy82f2r0.png" group-title="MOVIES",HBO SIGN
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX06vz7eErbbFEJs-PlKa9sCo/ts|user-agent=Mozilla/5.0
-
-#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kSN4o1NnpfH6cnY3kZaYgBeWFuwuQVaHj9EeAbuB8yDI.png" group-title="MOVIES",HBO FAMILY
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX02eeqVxt4642H5lISJHv6tE/ts|user-agent=Mozilla/5.0
-
-#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJGoapq-oENaZDsh2_74URQ.png" group-title="MOVIES",CINEMAX
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX03UXV9VD2E5xjsrt3W6wTNs/ts|user-agent=Mozilla/5.0
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-m.png" group-title="NASIONAL DIGITAL",RCTI
+https://raw.githubusercontent.com/B-inalm3u-Custom/New-Nasional/B-inal22/timnas1.m3u8
