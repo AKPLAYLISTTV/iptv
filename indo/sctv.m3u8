@@ -4,6 +4,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
+http://metatvpro.xyz:25461/live/J2781/5030/101.ts
 http://iptvtree.net:8080/live/romaniamedia/f35da5aefe/162141.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.ts
 https://nonton.site:8443/live/ekos/748344x/32.ts
