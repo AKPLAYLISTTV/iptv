@@ -11,3 +11,12 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/mnctv.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",INEWS
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/inews.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",RCTI PLUS
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/rctiplus.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",MNCTV PLUS
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/mnctvplus.m3u8
+
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",INEWS PLUS
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/inewsplus.m3u8
