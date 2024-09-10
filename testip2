@@ -31,17 +31,37 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/rcti.m3u8
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/movies/chinamovie.m3u8
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/chinamovie.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/movies/cinemaxID.m3u8
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/cinemaxID.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/movies/hboID.m3u8
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/hboID.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/movies/hbohitsID.m3u8
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/hbofamilyID.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/hbohitsID.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/hbosignatureID.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/astro1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/astro2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/astro3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/astro4.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/beinsport2.m3u8
 
 #EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6961737.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",National Geographic
 http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
@@ -236,4 +256,3 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSport
 #EXTINF:-1 group-title="Semprotan1"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9NuG.png",05.sport 18 
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
-
