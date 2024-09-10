@@ -3,35 +3,61 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/gtv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",indosiar
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/indosiar.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",inews
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/inews.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",metrotv
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/metrotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/metrotv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",mentari
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/kids/mentaritv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",mnctv
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/mnctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/mnctv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",aniplus
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/kids/aniplus.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",moji
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/moji.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",rcti
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/rcti.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",sctv
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/sctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/movies/chinamovie.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/movies/cinemaxID.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/movies/hboID.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",china
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/movies/hbohitsID.m3u8
+
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://i.pngimg.me/thumb/f/720/comdlpng6961737.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",National Geographic
+http://117tv.icu:8080/live/X5xRz0/944877/47339.m3u8
+
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/61rYWQU3MpL.jpg" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",National Geographic Wild
+http://117tv.icu:8080/live/X5xRz0/944877/57280.m3u8
+
+#EXTINF:-1 tvg-id="DMAXSoutheastAsia.sg" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",DMAX TV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Moz+1Ry6G/pB8b2iGc7v+A", "kid":"YvrpNekcTo2eg1opTqgZCQ" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
+#EXTINF:-1 tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/04/Smithsonian-Transparent.png" group-title="🇰 🇳 🇴 🇼 🇱 🇪 🇩 🇬 🇪",Smithsonian Channel (B)
+http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/10/Pj71h.png" group-title="Lokal",01.tvOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
