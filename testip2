@@ -1,5 +1,29 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",antv
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/antv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",btv
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/btv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",kompastv
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/kompastv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",trans7
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",transtv
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/transtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",tvone
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/tvone.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",tvri
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/tvri.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",cnn indo
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/news/cnnindo.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1C6D0/HBO.png" group-title="indo",gtv
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/gtv.m3u8
 
@@ -256,3 +280,4 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSport
 #EXTINF:-1 group-title="Semprotan1"tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9NuG.png",05.sport 18 
 #https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/151091.ts
+
