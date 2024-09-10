@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://laurenlending.pproxy.cc:80/play/live.php?mac=00:1A:79:74:08:F0&stream=56191&extension=ts
