@@ -1,28 +1,16 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",RCTI
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/rcti.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",beinsport2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/beinsport2.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",GTV
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/gtv.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",moji
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/moji.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",MNCTV
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/mnctv.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",flix
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/movies/flix.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",INEWS
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/inews.m3u8
-
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",RCTI PLUS
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/rctiplus.m3u8
-
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",MNCTV PLUS
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/mnctvplus.m3u8
-
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",INEWS PLUS
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/inewsplus.m3u8
-
-#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png",beimn
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/stream/indo/BeinAsia3.m3u8
+#EXTINF:-1 group-title="INDONESIA" tvg-logo="https://cdn4.mbahnunungonline.net/img/5aGd5Nc.png", test mentari raw
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/kids/mentaritv.m3u8
 
 #EXTINF:-1 group-title="NASIONAL AUTO" tvg-logo="https://i.imgur.com/FxS4HLZ.jpeg", MOJI V
 #KODIPROP:inputstream.adaptive.license_type=clearkey
