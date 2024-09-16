@@ -4,5 +4,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.ts
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1195.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/191946.ts
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.ts
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1195.ts
