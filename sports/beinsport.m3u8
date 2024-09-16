@@ -4,5 +4,6 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://31.42.187.37:25461/live/watchpad13158/1234/18.ts
+http://metatvpro.xyz:25461/live/J2781/5030/151.ts
+#http://31.42.187.37:25461/live/watchpad13158/1234/18.ts
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37432.ts
