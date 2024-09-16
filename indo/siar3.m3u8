@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://ktpremium.xyz:2095/live/yv2268/22681081/73617.ts
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/162138.ts
+http://metatvpro.xyz:25461/live/J2781/5030/105.ts
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.ts
