@@ -5,3 +5,15 @@
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co/NSLcYJH/channel-80-modified.png" group-title="AK PLAYLIST",RCTI
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/cobainewshd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",1
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/cobainewshd.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/cobainewshd2.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",3
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/cobainewshd3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="",4
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/cobainewshd4.m3u8
