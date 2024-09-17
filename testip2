@@ -1,2 +1,31 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MFC
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/myfamilychan.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 1
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 3
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 4 indosiar
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",tv1
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/tv1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",tv3
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/tv3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",ccn indo
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/news/cnnindo.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MCA
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/mycinemaasia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 5 indosiar INDI
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar5.m3u8
