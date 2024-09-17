@@ -25,3 +25,13 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master-avc1_2499968=7.m3u8
 
 
 ##https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+##EXTM3U
+##EXT-X-VERSION:3
+##EXT-X-MEDIA-SEQUENCE:3969080
+##EXT-X-TARGETDURATION:11
+##EXT-X-I-FRAMES-ONLY
+##EXTINF:10.144000,
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+##EXTINF:10.000000,
+#https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
