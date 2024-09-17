@@ -5,3 +5,9 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/11.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="",10
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/10.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="",mpd 11
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/live11.mpd
+
+#EXTINF:-1 tvg-logo="" group-title="",mpd 12
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/manifest%20(1).mpd
