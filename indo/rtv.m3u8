@@ -4,12 +4,3 @@
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576
 http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-
-
-#EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.ts
