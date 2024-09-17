@@ -29,3 +29,12 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/mycinemaasia.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 5 indosiar INDI
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar5.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="National",Inews (V+2)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/inews.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 6
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar6.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="National",Inews (V+2)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/inews.m3u8
