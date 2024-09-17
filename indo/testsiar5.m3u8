@@ -25,3 +25,14 @@ https://streaming.indihometv.com/atm/DASH/indosiar/livetv-avc1_2499968=7.mpd
 
 
 ##https://streaming.indihometv.com/atm/DASH/indosiar/livetv.mpd
+
+
+##EXTM3U
+##EXT-X-VERSION:3
+##EXT-X-MEDIA-SEQUENCE:3969080
+##EXT-X-TARGETDURATION:11
+##EXT-X-I-FRAMES-ONLY
+##EXTINF:10.144000,
+#https://streaming.indihometv.com/atm/DASH/indosiar/livetv.mpd
+##EXTINF:10.000000,
+#https://streaming.indihometv.com/atm/DASH/indosiar/livetv.mpd
