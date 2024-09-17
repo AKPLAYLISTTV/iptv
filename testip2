@@ -1,24 +1,14 @@
 #EXTM3U 
 
-
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/know/densknowledge.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/know/kbskorea.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/gamertv/densplay.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/entertain/ransentertain.m3u8
 
@@ -27,8 +17,6 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/entertain/ransentertain
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/rtv.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/kids/aniplus.m3u8
 
@@ -37,18 +25,12 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/kids/aniplus.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/kids/mkids.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/lifestyle/crematv.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/lifestyle/densfood.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/lifestyle/denslifestyle.m3u8
 
@@ -62,48 +44,27 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/mycinemaasia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/myfamilychan.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/music/dance.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/music/densshowbiz.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/news/cnnindo.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/madinah.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/makkah.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/rodjatv.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/motorvisionplus.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/unifisports.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hoi5XXs.jpeg" group-title="MOVIES",MY FAMILY CHANNEL
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/unifisports.m3u8
 
