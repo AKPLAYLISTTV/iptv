@@ -1,40 +1,36 @@
 #EXTM3U 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MFC
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/myfamilychan.m3u8
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png" group-title="Entertainment",Kplus (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/entertainment/kplus.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 2
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar2.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnninternational_ver1.png" group-title="News",CNN US (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/news/cnnus.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 1
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar1.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_disco_ver1.png" group-title="Knowledge",Discovery Science (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/discoverysci.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 3
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar3.m3u8
+#EXTINF:-1 group-title="Knowledge",Discovery Turbo (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/discoveryturbo.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 4 indosiar
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0GrGjbk/investdisco.png" group-title="Knowledge",Investigation Discovery (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/knowledge/investigationdiscovery.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",tv1
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/tv1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/640px-Asian_Food_Network.svg.png" group-title="Lifestyle",The Food Network (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/foodnetwork.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",tv3
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/tv3.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tlc_ver1.png" group-title="Lifestyle",TLC (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/tlc.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",ccn indo
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/news/cnnindo.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_fashiontv_ver2.png" group-title="Lifestyle",Fashion TV (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashiontv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",MCA
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/mycinemaasia.m3u8
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_fashiontv_ver2.png" group-title="Lifestyle",Fashion TV Midnight (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/lifestyle/fashionmidnight.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 5 indosiar INDI
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar5.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Discovery_Kids_%282009%29.png" group-title="Kids",Discovery Kid (L)
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/kids/discoverykids.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="National",Inews (V+2)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/inews.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="TEST",test siar 6
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/testsiar6.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="National",Inews (V+2)
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/indonesia/inews.m3u8
+#EXTINF:-1 group-title="Malaysia" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
