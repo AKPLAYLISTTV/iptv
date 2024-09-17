@@ -8,3 +8,5 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11-360H.mpd
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11-480H.mpd
 #EXT-X-STREAM-INF:BANDWIDTH=4370178,CODECS="mp4a.40.2,avc1.4d4020",RESOLUTION=1280x720,FRAME-RATE=60,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11-720H.mpd
+#EXT-X-STREAM-INF:BANDWIDTH=4370178,CODECS="mp4a.40.2,avc1.4d4020",RESOLUTION=1920x1080,FRAME-RATE=60,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11-1080FHD.mpd
