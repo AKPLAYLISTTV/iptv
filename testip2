@@ -1,2 +1,20 @@
 #EXTM3U 
 
+#EXTINF:-1 group-title="",test1
+http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/605/hls/COPY_AAC-LC_0.m3u8
+
+#EXTINF:-1 group-title="",test2
+http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/616/hls/SD_AAC-LC_0.m3u8
+
+#EXTINF:-1 group-title="",test3
+http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/315/hls/COPY_AAC-LC_0.m3u8
+
+#EXTINF:-1 group-title="",test11
+chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/605/hls/COPY_AAC-LC_0.m3u8
+
+#EXTINF:-1 group-title="",test22
+chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/616/hls/SD_AAC-LC_0.m3u8
+
+#EXTINF:-1 group-title="",test33
+chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/315/hls/COPY_AAC-LC_0.m3u8
+
