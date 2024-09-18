@@ -1,20 +1,17 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="",test1
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/605/hls/COPY_AAC-LC_0.m3u8
 
-#EXTINF:-1 group-title="",test2
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/616/hls/SD_AAC-LC_0.m3u8
 
-#EXTINF:-1 group-title="",test3
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/315/hls/COPY_AAC-LC_0.m3u8
 
-#EXTINF:-1 group-title="",test11
-chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/605/hls/COPY_AAC-LC_0.m3u8
-
-#EXTINF:-1 group-title="",test22
-chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/616/hls/SD_AAC-LC_0.m3u8
-
-#EXTINF:-1 group-title="",test33
-chrome-extension://gijhpnmjcpbddpedmmdihijogkkejfgj/player.html#http://localhost:9001/v1/api/player/media/b5675e9a-cac2-451a-973c-f1d06a14c081/315/hls/COPY_AAC-LC_0.m3u8
-
+#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+http://localhost:9001/v1/api/player/media/d351faa0-96c6-4c3c-be15-033e1691f33f/683/hls/HD_AAC-LC_0.m3u8
