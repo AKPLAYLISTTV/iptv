@@ -1,1 +1,102 @@
 #EXTM3U 
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",DENSKNOWLEDGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/know/densknowledge.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",KBS KOREA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/know/kbskorea.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",DENSPLAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/gamertv/densplay.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",RANS
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/entertain/ransentertain.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="TEST",RTV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/rtv.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",ANIPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/kids/aniplus.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",MKIDS
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/kids/mkids.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",CREMA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/lifestyle/crematv.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",DENS FOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/lifestyle/densfood.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",DENS LIFE STYLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/lifestyle/denslifestyle.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",MY CINEMA ASIA
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/mycinemaasia.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",MY FAMILY CHANNEL
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/mov/myfamilychan.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",DANCE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/music/dance.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",DENS SHOWBIZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/music/densshowbiz.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png" group-title="TEST",CNN Indonesia
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/news/cnnindo.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="" group-title="TEST",CNBC INDO
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/news/cnbcindo.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",MADINAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/madinah.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",MAKKAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/makkah.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",RODJA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/rodjatv.m3u8
+
+#EXTINF:0, tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="" group-title="TEST",MOTORVISIONPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/motorvisionplus.m3u8
+
+#EXTINF:-1 group-title="Music",Nagaswara Dangdut
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/music/nagaswaradangdut.m3u8
+
+#EXTINF:-1 group-title="Music",Nagaswara Koplo
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/music/nagaswarakoplo.m3u8
+
+#EXTINF:-1 group-title="Music",Nagaswara Pop
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/music/nagaswarapop.m3u8
+
+#EXTINF:-1 group-title="",TOONZKIDS
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/kids/toonzkids.m3u8
+
+#EXTINF:-1 group-title="",GARUDA TV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/garudatv.m3u8
+
+#EXTINF:-1 group-title="",INDONESIANA
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/indonesiana.m3u8
