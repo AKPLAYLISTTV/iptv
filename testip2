@@ -1,17 +1,1 @@
 #EXTM3U 
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://localhost:9001/v1/api/player/media/5958ffc4-41d5-4c20-8a09-71749eb25618/839/hls/HD_AAC-LC_0.m3u8
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://localhost:9001/v1/api/player/media/5958ffc4-41d5-4c20-8a09-71749eb25618/859/hls/HD_AAC-LC_0.m3u8
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://localhost:9001/v1/api/player/media/5958ffc4-41d5-4c20-8a09-71749eb25618/879/hls/HD_AAC-LC_0.m3u8
-
-#EXTINF:-1 group-title="INDONESIA" tvg-id="" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg",TRANS 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-http://localhost:9001/v1/api/player/media/5958ffc4-41d5-4c20-8a09-71749eb25618/837/hls/HD_AAC-LC_0.m3u8
