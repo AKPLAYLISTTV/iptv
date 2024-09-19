@@ -26,3 +26,18 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/nettv.m3u8
 
 #EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",2
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/garudatv.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/jtv.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/jaktv.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/inews.m3u8
+
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/M7OFrvF.png?v=1.0.0.1" group-title="🇮🇩 Nasional" ch-number="14" tvg-id="iNews.id" tvg-name="iNews", iNews
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/inews.m3u8
