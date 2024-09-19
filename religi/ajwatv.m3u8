@@ -1,7 +1,5 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://metatvpro.xyz:25461/live/J2781/5030/134.ts
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+https://chiva.my.id/sc/avid/play.m3u8?id=7464&type=hls
+#http://metatvpro.xyz:25461/live/J2781/5030/134.ts
