@@ -1,9 +1,6 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://ktpremium.xyz:2095/live/yv2268/22681081/73616.ts
-#http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165054.ts
-#http://ktpremium.xyz:2095/live/yv2268/22681081/73605.ts
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/165054.m3u8
+#http://ktpremium.xyz:2095/live/yv2268/22681081/73616.m3u8
+#http://ktpremium.xyz:2095/live/yv2268/22681081/73605.m3u8
