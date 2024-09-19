@@ -1,1 +1,28 @@
 #EXTM3U 
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV3"  tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",TV3
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/tv3.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/didiktv.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="8TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/8TV_v1.png",8TV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/8tv.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TV9_Malaysia_Logo_2021.png/476px-TV9_Malaysia_Logo_2021.png",TV9
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/malay/tv9.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",1
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/test1.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/test2.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/antv.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/nettv.m3u8
+
+#EXTINF:-1 group-title="MYTV" group-logo="https://pictr.com/images/2024/01/04/EX3JyU.png" tvg-id="DidikTVKPM" tvg-logo="https://didik.tv/images/logotv2.png",2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/garudatv.m3u8
