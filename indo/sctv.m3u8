@@ -1,6 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.ts
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.ts
 http://ktpremium.xyz:2095/live/yv2268/22681081/73607.ts
