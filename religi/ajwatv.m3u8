@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #EXTINF:1,
 https://sritv.serv00.net/red/play.m3u8?id=7464&type=hls
