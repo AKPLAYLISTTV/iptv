@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:0
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTVLCOPT:network-caching=30000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:0,
+http://fixtv.shop:888/Lyana/Lyana/47
+#EXT-X-ENDLIST
