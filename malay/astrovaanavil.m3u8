@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/192011.ts
