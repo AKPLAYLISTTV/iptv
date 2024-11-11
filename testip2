@@ -1,1 +1,60 @@
+#EXTM3U
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",gtv
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/gtv.m3u8
 
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",indosiar
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/indosiar.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",indosiar hd
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/indosiarhd.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",inwes
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/inews.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",kompas tv hd
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/kompastvhd.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",mnctv
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/mnctv.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",moji
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/moji.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",net tv hd
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/nettvhd.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",rcti
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/rcti.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",rcti hd
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/rctihd.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",rtv hd
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/rtvhd.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",trans 7
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/trans7.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",trans tv
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/indo/transtv.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",arena bola 1
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/arenabola1.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",arena bola 2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/sports/arenabola2.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",madina
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/livemadina.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",makkah
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/livemakkah.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",mr,bean
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/mrbean.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",nat geo
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/natgeoanimals.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",national geo
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/nationalgeographic.m3u8
