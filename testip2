@@ -50,11 +50,14 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/livemadina.m3
 #EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",makkah
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/livemakkah.m3u8
 
-#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",mr,bean
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/mrbean.m3u8
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",makkah1
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/makkah1.m3u8
 
-#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",nat geo
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/natgeoanimals.m3u8
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",makkah2
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/makkah2.m3u8
 
-#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",national geo
-https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/nationalgeographic.m3u8
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",makkah3
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/makkah3.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-logo="",makkah4
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/streaming/makkah4.m3u8
