@@ -1,6 +1,8 @@
-#EXTM3U
-#EXT-X-TARGETDURATION:65535
-#EXT-X-VERSION:3
-#EXTINF:65535,
-https://link.zozotv.xyz:443/mubaen/k895427/47
+#EXT-X-TARGETDURATION:0
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTVLCOPT:network-caching=0
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:0,
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/157591
+https://link.zozotv.xyz:443/mubaen/k895427/47
+#EXT-X-ENDLIST
