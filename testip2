@@ -1,1 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://wesaltv.id/wp-content/uploads/2019/08/Logo-Wesal-TV-Keluarga-2021-v1-768x278.png" group-title="RELIGI",Wesal TV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar.m3u8
+
+#EXTINF:-1 tvg-logo="https://wesaltv.id/wp-content/uploads/2019/08/Logo-Wesal-TV-Keluarga-2021-v1-768x278.png" group-title="RELIGI",Wesal TV
+https://link.zozotv.xyz:443/live/mubaen/k895427/45.ts
