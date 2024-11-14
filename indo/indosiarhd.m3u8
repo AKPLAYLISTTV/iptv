@@ -4,5 +4,5 @@
 #EXTVLCOPT:network-caching=0
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:0,
-http://fixtv.shop:888/Lyana/Lyana/47
+http://fixtv.shop:888/live/Lyana/Lyana/47.ts
 #EXT-X-ENDLIST
