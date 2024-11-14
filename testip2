@@ -1,2 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" tvg-id="AlWafaTarim.id" group-title="RELIGI",Alwafa Tarim TV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/testfilemakkah.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" tvg-id="AlWafaTarim.id" group-title="RELIGI",Alwafa Tarim TV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" tvg-id="AlWafaTarim.id" group-title="RELIGI",Alwafa Tarim TV
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/religi/makkah1.m3u8
+
+#EXTINF:-1 tvg-logo="https://live.alwafatarim.tv/assets/images/logo.png" tvg-id="AlWafaTarim.id" group-title="RELIGI",Alwafa Tarim TV
+https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=CngwZ2EM8Mw
