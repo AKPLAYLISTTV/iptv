@@ -1,8 +1,6 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:0
-#EXT-X-MEDIA-SEQUENCE:0
-#EXTVLCOPT:network-caching=0
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:0,
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
 https://output.unregister.xyz/euro/inavsjapan2024/abr.m3u8
-#EXT-X-ENDLIST
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2238329,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1024x576
+https://output.unregister.xyz/euro/inavsjapan2024/abr.m3u8
