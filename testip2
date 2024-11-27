@@ -1,2 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="LIVE STREAM" tvg-logo="https://i.ytimg.com/vi/uXNU0XgGZhs/hq720.jpg",LIVE 8K Scenic Relaxation
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar.m3u8
+
+#EXTINF:-1 group-title="LIVE STREAM" tvg-logo="https://i.ytimg.com/vi/uXNU0XgGZhs/hq720.jpg",LIVE 8K Scenic Relaxation
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar2.m3u8
+
+#EXTINF:-1 group-title="LIVE STREAM" tvg-logo="https://i.ytimg.com/vi/uXNU0XgGZhs/hq720.jpg",LIVE 8K Scenic Relaxation
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar3.m3u8
