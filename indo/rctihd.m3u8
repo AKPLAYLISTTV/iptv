@@ -4,4 +4,5 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
+http://opplex.tv:8080/3116580700/0700/351023
 http://viphomal.xyz:8080/live/VIP01594171414635172/bda831ff8f02/34322.ts
