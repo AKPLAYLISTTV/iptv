@@ -8,3 +8,74 @@ https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar2.m3u8
 
 #EXTINF:-1 group-title="LIVE STREAM" tvg-logo="https://i.ytimg.com/vi/uXNU0XgGZhs/hq720.jpg",LIVE 8K Scenic Relaxation
 https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar3.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1" group-title="Shareext@LOKAL_ID", Nusantara TV..
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1" group-title="Shareext@LOKAL_ID", Nusantara TV..
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar2.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eLjHSKm.png?v=1.0.0.1" group-title="Shareext@LOKAL_ID", Nusantara TV..
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar3.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-id="tvkesehatan.id" tvg-logo="https://kemkes.go.id/app_asset/file_content_download/170619174165b26b7d195019.13538774.png",TV Kesehatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-id="tvkesehatan.id" tvg-logo="https://kemkes.go.id/app_asset/file_content_download/170619174165b26b7d195019.13538774.png",TV Kesehatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar3.m3u8
+
+#EXTINF:-1 group-title="AK PLAYLIST" tvg-id="tvkesehatan.id" tvg-logo="https://kemkes.go.id/app_asset/file_content_download/170619174165b26b7d195019.13538774.png",TV Kesehatan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://raw.githubusercontent.com/AKPLAYLISTTV/iptv/main/test/siar2.m3u8
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(ktv)
+http://ktv.im:8080/live/kk56712/kk12345/101131.ts
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax",INDOSIAR-HD(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101131.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", RCTI(ktv2)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101181
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", INEWS(ktv2)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101132
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", MNCTV(ktv2)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101155
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/101112
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101130.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101129.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101113.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101114.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101115.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101116.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101143.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101144.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101148.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101149.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101156.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101157.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101159.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101168.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101170.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101199.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="ShareExt@Relax", GTV(ktv2)
+http://ktv.im:8080/live/fullpack12months015/ys87rLzzLE/101172.ts
