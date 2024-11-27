@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=232000,FRAME-RATE=25.000,RESOLUTION=284x160
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b232000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=414000,FRAME-RATE=25.000,RESOLUTION=426x240
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b414000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=628000,FRAME-RATE=25.000,RESOLUTION=640x360
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b628000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1128000,FRAME-RATE=25.000,RESOLUTION=584x480
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b1128000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1492000,FRAME-RATE=25.000,RESOLUTION=1280x720
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w528727893_b1492000_sleng.m3u8
