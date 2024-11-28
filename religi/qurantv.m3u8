@@ -1,8 +1,6 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-http://iptvtree.net:8080/live/resplice/wdLIS4d9758INyuX/45028.ts
-https://link.zozotv.xyz:443/mubaen/k895427/26
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
+http://op-group1-swiftservesd-1.dens.tv/s/s28/02.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1727459,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=640x480
+http://op-group1-swiftservesd-1.dens.tv/s/s28/01.m3u8
