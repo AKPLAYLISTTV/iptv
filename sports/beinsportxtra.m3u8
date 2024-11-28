@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=628000,FRAME-RATE=25.000,RESOLUTION=426x240
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=878000,FRAME-RATE=25.000,RESOLUTION=640x360
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1128000,FRAME-RATE=25.000,RESOLUTION=854x480
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2692000,FRAME-RATE=25.000,RESOLUTION=1280x720
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=3884000,FRAME-RATE=25.000,RESOLUTION=1920x1080
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
