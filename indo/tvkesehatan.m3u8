@@ -1,12 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=232000,FRAME-RATE=25.000,RESOLUTION=284x160
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=414000,FRAME-RATE=25.000,RESOLUTION=426x240
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=628000,FRAME-RATE=25.000,RESOLUTION=640x360
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1128000,FRAME-RATE=25.000,RESOLUTION=584x480
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1492000,FRAME-RATE=25.000,RESOLUTION=1280x720
-https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4824832,CODECS="avc1.42001e,mp4a.40.2",RESOLUTION=1280x720
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/chunklist_w1721078537.m3u8
