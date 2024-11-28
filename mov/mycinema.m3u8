@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:152271
+#EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-TARGETDURATION:10
 #EXTINF:10.000,
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index-152271.ts
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:10.000,
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index-152272.ts
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:10.000,
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index-152273.ts
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
 #EXTINF:10.000,
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index-152274.ts
+https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8
