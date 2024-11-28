@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3500000,RESOLUTION=1920x1080
+https://output.unregister.xyz//euro/inavsjapan2024_uhd/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2048000,RESOLUTION=1280x720
+https://output.unregister.xyz//euro/inavsjapan2024_hd/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1638000,RESOLUTION=960x540
+https://output.unregister.xyz//euro/inavsjapan2024_sd/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=512000,RESOLUTION=640x360
+https://output.unregister.xyz//euro/inavsjapan2024_ld/index.m3u8
