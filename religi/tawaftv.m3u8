@@ -1,7 +1,10 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-https://sritv.serv00.net/red/play.m3u8?id=12607&type=hls
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2250000,AVERAGE-BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
+https://etslive-v3-vidio-com-tokenized.akamaized.net//hls-p/ingest_12607_720p/hdntl=exp=1732837076~acl=%2flive%2f12607%2fmaster.m3u8!%2fhls-p%2fingest_12607*%2f*!%2fhls-b%2fingest_12607*%2f*~id=143749243~data=hdntl~hmac=5484bf2d1e2f4cb46e64274fc445367ca6d333172e78ac80947ec29845d0a664/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1800000,AVERAGE-BANDWIDTH=1200000,NAME=480p,RESOLUTION=854x480
+https://etslive-v3-vidio-com-tokenized.akamaized.net//hls-p/ingest_12607_480p/hdntl=exp=1732837076~acl=%2flive%2f12607%2fmaster.m3u8!%2fhls-p%2fingest_12607*%2f*!%2fhls-b%2fingest_12607*%2f*~id=143749243~data=hdntl~hmac=5484bf2d1e2f4cb46e64274fc445367ca6d333172e78ac80947ec29845d0a664/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=938000,AVERAGE-BANDWIDTH=625000,NAME=360p,RESOLUTION=640x360
+https://etslive-v3-vidio-com-tokenized.akamaized.net//hls-p/ingest_12607_360p/hdntl=exp=1732837076~acl=%2flive%2f12607%2fmaster.m3u8!%2fhls-p%2fingest_12607*%2f*!%2fhls-b%2fingest_12607*%2f*~id=143749243~data=hdntl~hmac=5484bf2d1e2f4cb46e64274fc445367ca6d333172e78ac80947ec29845d0a664/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=563000,AVERAGE-BANDWIDTH=375000,NAME=240p,RESOLUTION=426x240
+https://etslive-v3-vidio-com-tokenized.akamaized.net//hls-p/ingest_12607_240p/hdntl=exp=1732837076~acl=%2flive%2f12607%2fmaster.m3u8!%2fhls-p%2fingest_12607*%2f*!%2fhls-b%2fingest_12607*%2f*~id=143749243~data=hdntl~hmac=5484bf2d1e2f4cb46e64274fc445367ca6d333172e78ac80947ec29845d0a664/index.m3u8
