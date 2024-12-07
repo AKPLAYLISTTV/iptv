@@ -4,7 +4,7 @@
 #EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 #EXTINF:1,
-http://extraott.com/live/6945574629/7169628753/400200742.ts
 http://31.42.187.37:25461/watchpad13158/1234/91
+http://extraott.com/live/6945574629/7169628753/400200742.ts
 http://fixtv.shop:888/live/Lyana/Lyana/159.ts
 http://viphomal.xyz:8080/live/VIP01594171414635172/bda831ff8f02/34322.ts
