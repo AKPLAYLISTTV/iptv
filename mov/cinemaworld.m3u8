@@ -1,4 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1044100,RESOLUTION=1280x720
-https://cdngb196.indihometv.com/joss/134/cinemaworld/chunklist_w1633228428_b1044100_sleng.m3u8?enc=&uid=&exp=
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302226.ts
